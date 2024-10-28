@@ -1,0 +1,8002 @@
+{
+  "17151": {
+    "name": "Donna Turner",
+    "scores": {
+      "math": 98,
+      "physics": 59,
+      "chemistry": 86
+    }
+  },
+  "58214": {
+    "name": "Jaclyn Bradford",
+    "scores": {
+      "math": 90,
+      "physics": 67,
+      "chemistry": 99
+    }
+  },
+  "71673": {
+    "name": "George Valenzuela",
+    "scores": {
+      "math": 59,
+      "physics": 51,
+      "chemistry": 69
+    }
+  },
+  "25219": {
+    "name": "Katherine Carpenter",
+    "scores": {
+      "math": 99,
+      "physics": 63,
+      "chemistry": 56
+    }
+  },
+  "31901": {
+    "name": "Adam Conner",
+    "scores": {
+      "math": 50,
+      "physics": 57,
+      "chemistry": 91
+    }
+  },
+  "68414": {
+    "name": "James Frederick",
+    "scores": {
+      "math": 70,
+      "physics": 66,
+      "chemistry": 79
+    }
+  },
+  "14362": {
+    "name": "Laura Hughes",
+    "scores": {
+      "math": 86,
+      "physics": 53,
+      "chemistry": 83
+    }
+  },
+  "54479": {
+    "name": "Robert Wallace",
+    "scores": {
+      "math": 81,
+      "physics": 99,
+      "chemistry": 53
+    }
+  },
+  "95892": {
+    "name": "Tami Brooks",
+    "scores": {
+      "math": 61,
+      "physics": 74,
+      "chemistry": 96
+    }
+  },
+  "19024": {
+    "name": "Carlos Rodriguez",
+    "scores": {
+      "math": 94,
+      "physics": 58,
+      "chemistry": 94
+    }
+  },
+  "31524": {
+    "name": "Sherri Kelley",
+    "scores": {
+      "math": 91,
+      "physics": 100,
+      "chemistry": 75
+    }
+  },
+  "36997": {
+    "name": "Diana David",
+    "scores": {
+      "math": 79,
+      "physics": 90,
+      "chemistry": 67
+    }
+  },
+  "94114": {
+    "name": "Timothy Barnett",
+    "scores": {
+      "math": 52,
+      "physics": 68,
+      "chemistry": 59
+    }
+  },
+  "23460": {
+    "name": "Susan Phillips",
+    "scores": {
+      "math": 63,
+      "physics": 86,
+      "chemistry": 97
+    }
+  },
+  "26863": {
+    "name": "Bruce Craig",
+    "scores": {
+      "math": 52,
+      "physics": 99,
+      "chemistry": 74
+    }
+  },
+  "97341": {
+    "name": "Joshua Burgess",
+    "scores": {
+      "math": 90,
+      "physics": 69,
+      "chemistry": 94
+    }
+  },
+  "98978": {
+    "name": "Scott Schmitt",
+    "scores": {
+      "math": 73,
+      "physics": 75,
+      "chemistry": 81
+    }
+  },
+  "47511": {
+    "name": "Matthew Villanueva",
+    "scores": {
+      "math": 93,
+      "physics": 100,
+      "chemistry": 66
+    }
+  },
+  "67361": {
+    "name": "Anthony Gomez",
+    "scores": {
+      "math": 50,
+      "physics": 73,
+      "chemistry": 52
+    }
+  },
+  "71737": {
+    "name": "Joshua Sanchez",
+    "scores": {
+      "math": 94,
+      "physics": 84,
+      "chemistry": 83
+    }
+  },
+  "26194": {
+    "name": "Denise Le",
+    "scores": {
+      "math": 94,
+      "physics": 60,
+      "chemistry": 80
+    }
+  },
+  "29801": {
+    "name": "Logan Chambers",
+    "scores": {
+      "math": 66,
+      "physics": 79,
+      "chemistry": 92
+    }
+  },
+  "39964": {
+    "name": "Jamie Sandoval",
+    "scores": {
+      "math": 85,
+      "physics": 58,
+      "chemistry": 94
+    }
+  },
+  "55713": {
+    "name": "Stephanie Nichols",
+    "scores": {
+      "math": 77,
+      "physics": 83,
+      "chemistry": 74
+    }
+  },
+  "40273": {
+    "name": "Sarah Alexander",
+    "scores": {
+      "math": 84,
+      "physics": 91,
+      "chemistry": 75
+    }
+  },
+  "51315": {
+    "name": "Mitchell Shepherd",
+    "scores": {
+      "math": 71,
+      "physics": 92,
+      "chemistry": 72
+    }
+  },
+  "89603": {
+    "name": "Eric Brown",
+    "scores": {
+      "math": 63,
+      "physics": 67,
+      "chemistry": 68
+    }
+  },
+  "11109": {
+    "name": "Randy Collins",
+    "scores": {
+      "math": 57,
+      "physics": 87,
+      "chemistry": 69
+    }
+  },
+  "59133": {
+    "name": "Melissa Davis",
+    "scores": {
+      "math": 93,
+      "physics": 100,
+      "chemistry": 96
+    }
+  },
+  "66097": {
+    "name": "Shawn Evans",
+    "scores": {
+      "math": 76,
+      "physics": 59,
+      "chemistry": 51
+    }
+  },
+  "64969": {
+    "name": "Christopher Cook",
+    "scores": {
+      "math": 84,
+      "physics": 86,
+      "chemistry": 100
+    }
+  },
+  "44518": {
+    "name": "Patricia Lutz",
+    "scores": {
+      "math": 82,
+      "physics": 56,
+      "chemistry": 71
+    }
+  },
+  "26057": {
+    "name": "Sabrina Thompson",
+    "scores": {
+      "math": 77,
+      "physics": 51,
+      "chemistry": 74
+    }
+  },
+  "61948": {
+    "name": "Joseph Melton",
+    "scores": {
+      "math": 64,
+      "physics": 83,
+      "chemistry": 55
+    }
+  },
+  "77227": {
+    "name": "Madison White",
+    "scores": {
+      "math": 68,
+      "physics": 88,
+      "chemistry": 70
+    }
+  },
+  "80673": {
+    "name": "Mark Gallagher",
+    "scores": {
+      "math": 85,
+      "physics": 59,
+      "chemistry": 58
+    }
+  },
+  "46179": {
+    "name": "Brian Tucker",
+    "scores": {
+      "math": 62,
+      "physics": 72,
+      "chemistry": 100
+    }
+  },
+  "21113": {
+    "name": "Andrew Alvarez",
+    "scores": {
+      "math": 78,
+      "physics": 55,
+      "chemistry": 77
+    }
+  },
+  "45053": {
+    "name": "Roy Clark",
+    "scores": {
+      "math": 90,
+      "physics": 92,
+      "chemistry": 51
+    }
+  },
+  "88470": {
+    "name": "Bradley Bradford",
+    "scores": {
+      "math": 56,
+      "physics": 92,
+      "chemistry": 79
+    }
+  },
+  "56215": {
+    "name": "Karen Hernandez",
+    "scores": {
+      "math": 77,
+      "physics": 95,
+      "chemistry": 90
+    }
+  },
+  "34584": {
+    "name": "Morgan Stewart",
+    "scores": {
+      "math": 76,
+      "physics": 67,
+      "chemistry": 73
+    }
+  },
+  "87092": {
+    "name": "Gary Wyatt",
+    "scores": {
+      "math": 57,
+      "physics": 68,
+      "chemistry": 93
+    }
+  },
+  "99974": {
+    "name": "Jeffrey Moses",
+    "scores": {
+      "math": 80,
+      "physics": 68,
+      "chemistry": 58
+    }
+  },
+  "40566": {
+    "name": "Seth Schmidt",
+    "scores": {
+      "math": 55,
+      "physics": 97,
+      "chemistry": 93
+    }
+  },
+  "67959": {
+    "name": "Daniel Holmes",
+    "scores": {
+      "math": 61,
+      "physics": 92,
+      "chemistry": 88
+    }
+  },
+  "74897": {
+    "name": "Ashley Duran",
+    "scores": {
+      "math": 71,
+      "physics": 53,
+      "chemistry": 70
+    }
+  },
+  "34514": {
+    "name": "Regina Carter",
+    "scores": {
+      "math": 83,
+      "physics": 99,
+      "chemistry": 71
+    }
+  },
+  "68279": {
+    "name": "Jackie Rice",
+    "scores": {
+      "math": 84,
+      "physics": 67,
+      "chemistry": 62
+    }
+  },
+  "25770": {
+    "name": "Adriana Walker",
+    "scores": {
+      "math": 83,
+      "physics": 75,
+      "chemistry": 90
+    }
+  },
+  "87593": {
+    "name": "Kevin Chavez",
+    "scores": {
+      "math": 54,
+      "physics": 69,
+      "chemistry": 97
+    }
+  },
+  "21144": {
+    "name": "Ashley Young",
+    "scores": {
+      "math": 94,
+      "physics": 63,
+      "chemistry": 79
+    }
+  },
+  "21163": {
+    "name": "Anthony Ware",
+    "scores": {
+      "math": 54,
+      "physics": 60,
+      "chemistry": 55
+    }
+  },
+  "80724": {
+    "name": "Jason Martinez",
+    "scores": {
+      "math": 58,
+      "physics": 86,
+      "chemistry": 89
+    }
+  },
+  "30975": {
+    "name": "Bruce Castillo",
+    "scores": {
+      "math": 81,
+      "physics": 63,
+      "chemistry": 80
+    }
+  },
+  "31890": {
+    "name": "Sharon Bennett",
+    "scores": {
+      "math": 68,
+      "physics": 99,
+      "chemistry": 51
+    }
+  },
+  "74704": {
+    "name": "Alicia Garcia",
+    "scores": {
+      "math": 80,
+      "physics": 59,
+      "chemistry": 87
+    }
+  },
+  "18122": {
+    "name": "Joshua Johnson",
+    "scores": {
+      "math": 83,
+      "physics": 79,
+      "chemistry": 57
+    }
+  },
+  "81600": {
+    "name": "Julie Alvarado",
+    "scores": {
+      "math": 74,
+      "physics": 54,
+      "chemistry": 74
+    }
+  },
+  "24454": {
+    "name": "Robert Shepherd",
+    "scores": {
+      "math": 67,
+      "physics": 60,
+      "chemistry": 56
+    }
+  },
+  "50715": {
+    "name": "Megan Singleton",
+    "scores": {
+      "math": 50,
+      "physics": 52,
+      "chemistry": 98
+    }
+  },
+  "39849": {
+    "name": "Jonathan Pittman",
+    "scores": {
+      "math": 53,
+      "physics": 54,
+      "chemistry": 80
+    }
+  },
+  "91761": {
+    "name": "Heather Farrell",
+    "scores": {
+      "math": 51,
+      "physics": 53,
+      "chemistry": 89
+    }
+  },
+  "50720": {
+    "name": "Stephanie Palmer",
+    "scores": {
+      "math": 75,
+      "physics": 54,
+      "chemistry": 76
+    }
+  },
+  "38880": {
+    "name": "Richard Campbell",
+    "scores": {
+      "math": 81,
+      "physics": 63,
+      "chemistry": 88
+    }
+  },
+  "94438": {
+    "name": "Bruce Giles",
+    "scores": {
+      "math": 90,
+      "physics": 78,
+      "chemistry": 51
+    }
+  },
+  "15277": {
+    "name": "Tiffany Edwards",
+    "scores": {
+      "math": 79,
+      "physics": 64,
+      "chemistry": 59
+    }
+  },
+  "96212": {
+    "name": "Lisa Li",
+    "scores": {
+      "math": 100,
+      "physics": 80,
+      "chemistry": 77
+    }
+  },
+  "67998": {
+    "name": "Morgan Grant",
+    "scores": {
+      "math": 79,
+      "physics": 83,
+      "chemistry": 69
+    }
+  },
+  "52266": {
+    "name": "Christian Miller",
+    "scores": {
+      "math": 57,
+      "physics": 50,
+      "chemistry": 90
+    }
+  },
+  "52503": {
+    "name": "Donna Johnson",
+    "scores": {
+      "math": 90,
+      "physics": 63,
+      "chemistry": 63
+    }
+  },
+  "44640": {
+    "name": "Jamie Bass",
+    "scores": {
+      "math": 60,
+      "physics": 86,
+      "chemistry": 95
+    }
+  },
+  "55170": {
+    "name": "Patrick Terry",
+    "scores": {
+      "math": 59,
+      "physics": 81,
+      "chemistry": 98
+    }
+  },
+  "84165": {
+    "name": "Lindsey Strong",
+    "scores": {
+      "math": 80,
+      "physics": 65,
+      "chemistry": 63
+    }
+  },
+  "16500": {
+    "name": "Samuel Ford",
+    "scores": {
+      "math": 85,
+      "physics": 56,
+      "chemistry": 52
+    }
+  },
+  "96439": {
+    "name": "Summer Allen",
+    "scores": {
+      "math": 60,
+      "physics": 81,
+      "chemistry": 58
+    }
+  },
+  "55936": {
+    "name": "Laura Savage",
+    "scores": {
+      "math": 53,
+      "physics": 96,
+      "chemistry": 53
+    }
+  },
+  "50662": {
+    "name": "James Vaughn",
+    "scores": {
+      "math": 92,
+      "physics": 85,
+      "chemistry": 90
+    }
+  },
+  "61277": {
+    "name": "Joshua Wilkinson",
+    "scores": {
+      "math": 93,
+      "physics": 76,
+      "chemistry": 67
+    }
+  },
+  "18194": {
+    "name": "Heather Stewart",
+    "scores": {
+      "math": 58,
+      "physics": 79,
+      "chemistry": 72
+    }
+  },
+  "23556": {
+    "name": "Robert Armstrong",
+    "scores": {
+      "math": 87,
+      "physics": 90,
+      "chemistry": 72
+    }
+  },
+  "92496": {
+    "name": "Sheryl Dawson",
+    "scores": {
+      "math": 93,
+      "physics": 54,
+      "chemistry": 59
+    }
+  },
+  "70603": {
+    "name": "Sheena Davis",
+    "scores": {
+      "math": 98,
+      "physics": 60,
+      "chemistry": 75
+    }
+  },
+  "62342": {
+    "name": "Diana Owens",
+    "scores": {
+      "math": 51,
+      "physics": 53,
+      "chemistry": 92
+    }
+  },
+  "15401": {
+    "name": "Douglas Ford",
+    "scores": {
+      "math": 67,
+      "physics": 97,
+      "chemistry": 90
+    }
+  },
+  "58124": {
+    "name": "David Smith",
+    "scores": {
+      "math": 81,
+      "physics": 90,
+      "chemistry": 71
+    }
+  },
+  "44030": {
+    "name": "Lauren Miller",
+    "scores": {
+      "math": 69,
+      "physics": 78,
+      "chemistry": 78
+    }
+  },
+  "69831": {
+    "name": "Peter Kelly",
+    "scores": {
+      "math": 89,
+      "physics": 55,
+      "chemistry": 53
+    }
+  },
+  "77693": {
+    "name": "Adam Watkins",
+    "scores": {
+      "math": 99,
+      "physics": 87,
+      "chemistry": 67
+    }
+  },
+  "96732": {
+    "name": "Kimberly Lang",
+    "scores": {
+      "math": 74,
+      "physics": 81,
+      "chemistry": 69
+    }
+  },
+  "42331": {
+    "name": "Anthony Green",
+    "scores": {
+      "math": 87,
+      "physics": 92,
+      "chemistry": 95
+    }
+  },
+  "19608": {
+    "name": "Susan Beck",
+    "scores": {
+      "math": 54,
+      "physics": 54,
+      "chemistry": 95
+    }
+  },
+  "81089": {
+    "name": "Mrs. Christina Oneill",
+    "scores": {
+      "math": 53,
+      "physics": 63,
+      "chemistry": 89
+    }
+  },
+  "14441": {
+    "name": "Marc Ortiz",
+    "scores": {
+      "math": 69,
+      "physics": 73,
+      "chemistry": 88
+    }
+  },
+  "57435": {
+    "name": "Nicholas Clark",
+    "scores": {
+      "math": 85,
+      "physics": 57,
+      "chemistry": 98
+    }
+  },
+  "62262": {
+    "name": "Elizabeth Adams MD",
+    "scores": {
+      "math": 93,
+      "physics": 84,
+      "chemistry": 58
+    }
+  },
+  "62579": {
+    "name": "Duane Rangel",
+    "scores": {
+      "math": 95,
+      "physics": 69,
+      "chemistry": 99
+    }
+  },
+  "64630": {
+    "name": "Edwin Williams",
+    "scores": {
+      "math": 82,
+      "physics": 91,
+      "chemistry": 56
+    }
+  },
+  "12268": {
+    "name": "Robert Garza",
+    "scores": {
+      "math": 68,
+      "physics": 68,
+      "chemistry": 54
+    }
+  },
+  "48811": {
+    "name": "Tammy Walsh",
+    "scores": {
+      "math": 64,
+      "physics": 60,
+      "chemistry": 82
+    }
+  },
+  "76986": {
+    "name": "Erica Kelley",
+    "scores": {
+      "math": 65,
+      "physics": 90,
+      "chemistry": 59
+    }
+  },
+  "74489": {
+    "name": "Benjamin Hamilton",
+    "scores": {
+      "math": 94,
+      "physics": 80,
+      "chemistry": 54
+    }
+  },
+  "21381": {
+    "name": "Mrs. Linda Curtis",
+    "scores": {
+      "math": 92,
+      "physics": 90,
+      "chemistry": 86
+    }
+  },
+  "48080": {
+    "name": "Linda Owen",
+    "scores": {
+      "math": 54,
+      "physics": 94,
+      "chemistry": 98
+    }
+  },
+  "50473": {
+    "name": "Amanda Griffin",
+    "scores": {
+      "math": 57,
+      "physics": 67,
+      "chemistry": 78
+    }
+  },
+  "49712": {
+    "name": "Lori Rivera",
+    "scores": {
+      "math": 78,
+      "physics": 68,
+      "chemistry": 55
+    }
+  },
+  "74311": {
+    "name": "Jason Meyer",
+    "scores": {
+      "math": 65,
+      "physics": 78,
+      "chemistry": 57
+    }
+  },
+  "84004": {
+    "name": "Gary Gray",
+    "scores": {
+      "math": 72,
+      "physics": 67,
+      "chemistry": 99
+    }
+  },
+  "41578": {
+    "name": "Erin Matthews",
+    "scores": {
+      "math": 83,
+      "physics": 64,
+      "chemistry": 92
+    }
+  },
+  "22158": {
+    "name": "Stephen Le",
+    "scores": {
+      "math": 63,
+      "physics": 73,
+      "chemistry": 72
+    }
+  },
+  "59346": {
+    "name": "Lauren Sanchez DDS",
+    "scores": {
+      "math": 55,
+      "physics": 53,
+      "chemistry": 53
+    }
+  },
+  "67155": {
+    "name": "Thomas Byrd",
+    "scores": {
+      "math": 80,
+      "physics": 59,
+      "chemistry": 85
+    }
+  },
+  "15565": {
+    "name": "Ashley Baker",
+    "scores": {
+      "math": 78,
+      "physics": 59,
+      "chemistry": 60
+    }
+  },
+  "98463": {
+    "name": "Gina Silva DDS",
+    "scores": {
+      "math": 63,
+      "physics": 88,
+      "chemistry": 50
+    }
+  },
+  "68873": {
+    "name": "Tracey Turner",
+    "scores": {
+      "math": 69,
+      "physics": 60,
+      "chemistry": 73
+    }
+  },
+  "71267": {
+    "name": "Gwendolyn Henry",
+    "scores": {
+      "math": 89,
+      "physics": 64,
+      "chemistry": 75
+    }
+  },
+  "29401": {
+    "name": "Stephen Williams",
+    "scores": {
+      "math": 100,
+      "physics": 91,
+      "chemistry": 82
+    }
+  },
+  "15524": {
+    "name": "Jennifer Ellis",
+    "scores": {
+      "math": 69,
+      "physics": 84,
+      "chemistry": 82
+    }
+  },
+  "90623": {
+    "name": "Vickie Forbes",
+    "scores": {
+      "math": 93,
+      "physics": 94,
+      "chemistry": 92
+    }
+  },
+  "91804": {
+    "name": "Patrick Simmons",
+    "scores": {
+      "math": 51,
+      "physics": 58,
+      "chemistry": 80
+    }
+  },
+  "10354": {
+    "name": "Joshua Graves",
+    "scores": {
+      "math": 88,
+      "physics": 99,
+      "chemistry": 86
+    }
+  },
+  "46138": {
+    "name": "Edward Ray",
+    "scores": {
+      "math": 74,
+      "physics": 57,
+      "chemistry": 98
+    }
+  },
+  "30596": {
+    "name": "Kimberly Garcia",
+    "scores": {
+      "math": 86,
+      "physics": 83,
+      "chemistry": 76
+    }
+  },
+  "20497": {
+    "name": "Joseph Cole",
+    "scores": {
+      "math": 74,
+      "physics": 50,
+      "chemistry": 92
+    }
+  },
+  "61435": {
+    "name": "Barbara Bowman",
+    "scores": {
+      "math": 95,
+      "physics": 80,
+      "chemistry": 51
+    }
+  },
+  "70951": {
+    "name": "Katrina Barry",
+    "scores": {
+      "math": 100,
+      "physics": 50,
+      "chemistry": 93
+    }
+  },
+  "15625": {
+    "name": "Monique Smith",
+    "scores": {
+      "math": 66,
+      "physics": 51,
+      "chemistry": 87
+    }
+  },
+  "43134": {
+    "name": "Ruben Green",
+    "scores": {
+      "math": 63,
+      "physics": 87,
+      "chemistry": 58
+    }
+  },
+  "62929": {
+    "name": "Bryan Faulkner",
+    "scores": {
+      "math": 70,
+      "physics": 60,
+      "chemistry": 80
+    }
+  },
+  "14358": {
+    "name": "Michael Walker",
+    "scores": {
+      "math": 50,
+      "physics": 71,
+      "chemistry": 91
+    }
+  },
+  "20643": {
+    "name": "Jeffrey Howard",
+    "scores": {
+      "math": 51,
+      "physics": 67,
+      "chemistry": 85
+    }
+  },
+  "40645": {
+    "name": "Haley Wilson",
+    "scores": {
+      "math": 51,
+      "physics": 77,
+      "chemistry": 74
+    }
+  },
+  "59880": {
+    "name": "Daniel Cabrera",
+    "scores": {
+      "math": 59,
+      "physics": 94,
+      "chemistry": 68
+    }
+  },
+  "72534": {
+    "name": "Dylan Becker",
+    "scores": {
+      "math": 92,
+      "physics": 98,
+      "chemistry": 68
+    }
+  },
+  "40530": {
+    "name": "Deanna Pugh",
+    "scores": {
+      "math": 77,
+      "physics": 61,
+      "chemistry": 94
+    }
+  },
+  "84436": {
+    "name": "Matthew Parker",
+    "scores": {
+      "math": 92,
+      "physics": 61,
+      "chemistry": 96
+    }
+  },
+  "21142": {
+    "name": "Robert Maynard",
+    "scores": {
+      "math": 72,
+      "physics": 72,
+      "chemistry": 78
+    }
+  },
+  "29829": {
+    "name": "George Lee",
+    "scores": {
+      "math": 95,
+      "physics": 84,
+      "chemistry": 94
+    }
+  },
+  "25876": {
+    "name": "Becky Brown",
+    "scores": {
+      "math": 83,
+      "physics": 85,
+      "chemistry": 74
+    }
+  },
+  "33017": {
+    "name": "Helen Davis",
+    "scores": {
+      "math": 77,
+      "physics": 90,
+      "chemistry": 72
+    }
+  },
+  "61028": {
+    "name": "Jason Walker",
+    "scores": {
+      "math": 50,
+      "physics": 54,
+      "chemistry": 99
+    }
+  },
+  "47074": {
+    "name": "Paul Mckay",
+    "scores": {
+      "math": 92,
+      "physics": 67,
+      "chemistry": 72
+    }
+  },
+  "59090": {
+    "name": "William Day",
+    "scores": {
+      "math": 56,
+      "physics": 53,
+      "chemistry": 56
+    }
+  },
+  "84055": {
+    "name": "Raymond Davis",
+    "scores": {
+      "math": 93,
+      "physics": 82,
+      "chemistry": 71
+    }
+  },
+  "79241": {
+    "name": "Kathleen Sawyer",
+    "scores": {
+      "math": 87,
+      "physics": 83,
+      "chemistry": 86
+    }
+  },
+  "48422": {
+    "name": "Beth Delacruz",
+    "scores": {
+      "math": 53,
+      "physics": 86,
+      "chemistry": 50
+    }
+  },
+  "47333": {
+    "name": "Bryan Diaz",
+    "scores": {
+      "math": 59,
+      "physics": 52,
+      "chemistry": 67
+    }
+  },
+  "83344": {
+    "name": "Charles Davis",
+    "scores": {
+      "math": 97,
+      "physics": 78,
+      "chemistry": 98
+    }
+  },
+  "36759": {
+    "name": "Jacqueline Lopez",
+    "scores": {
+      "math": 78,
+      "physics": 100,
+      "chemistry": 62
+    }
+  },
+  "54378": {
+    "name": "Mindy Klein",
+    "scores": {
+      "math": 95,
+      "physics": 50,
+      "chemistry": 90
+    }
+  },
+  "42784": {
+    "name": "Ronald Liu",
+    "scores": {
+      "math": 60,
+      "physics": 94,
+      "chemistry": 72
+    }
+  },
+  "40482": {
+    "name": "William Hoffman",
+    "scores": {
+      "math": 99,
+      "physics": 54,
+      "chemistry": 89
+    }
+  },
+  "81776": {
+    "name": "Pamela Torres",
+    "scores": {
+      "math": 99,
+      "physics": 69,
+      "chemistry": 55
+    }
+  },
+  "31311": {
+    "name": "Sarah Trevino",
+    "scores": {
+      "math": 98,
+      "physics": 98,
+      "chemistry": 92
+    }
+  },
+  "94911": {
+    "name": "Ashley Rodriguez",
+    "scores": {
+      "math": 100,
+      "physics": 80,
+      "chemistry": 56
+    }
+  },
+  "11948": {
+    "name": "James Simpson",
+    "scores": {
+      "math": 61,
+      "physics": 74,
+      "chemistry": 83
+    }
+  },
+  "87718": {
+    "name": "Austin Robinson",
+    "scores": {
+      "math": 65,
+      "physics": 58,
+      "chemistry": 65
+    }
+  },
+  "14430": {
+    "name": "James Lloyd",
+    "scores": {
+      "math": 51,
+      "physics": 69,
+      "chemistry": 88
+    }
+  },
+  "56280": {
+    "name": "Michael Gordon",
+    "scores": {
+      "math": 78,
+      "physics": 79,
+      "chemistry": 61
+    }
+  },
+  "91658": {
+    "name": "William Donovan",
+    "scores": {
+      "math": 89,
+      "physics": 53,
+      "chemistry": 94
+    }
+  },
+  "92962": {
+    "name": "Antonio Porter",
+    "scores": {
+      "math": 80,
+      "physics": 88,
+      "chemistry": 80
+    }
+  },
+  "12506": {
+    "name": "Joseph Preston",
+    "scores": {
+      "math": 84,
+      "physics": 52,
+      "chemistry": 75
+    }
+  },
+  "38740": {
+    "name": "Mitchell Gibbs",
+    "scores": {
+      "math": 65,
+      "physics": 66,
+      "chemistry": 53
+    }
+  },
+  "47398": {
+    "name": "Tracey Stewart",
+    "scores": {
+      "math": 97,
+      "physics": 60,
+      "chemistry": 86
+    }
+  },
+  "95658": {
+    "name": "Dustin Rivera",
+    "scores": {
+      "math": 61,
+      "physics": 62,
+      "chemistry": 79
+    }
+  },
+  "77032": {
+    "name": "Sarah Wilson",
+    "scores": {
+      "math": 55,
+      "physics": 99,
+      "chemistry": 50
+    }
+  },
+  "76687": {
+    "name": "Willie Velasquez",
+    "scores": {
+      "math": 51,
+      "physics": 81,
+      "chemistry": 92
+    }
+  },
+  "54563": {
+    "name": "Angelica Stewart",
+    "scores": {
+      "math": 80,
+      "physics": 64,
+      "chemistry": 77
+    }
+  },
+  "13043": {
+    "name": "Tyler Love",
+    "scores": {
+      "math": 75,
+      "physics": 64,
+      "chemistry": 88
+    }
+  },
+  "35559": {
+    "name": "Sarah Martin",
+    "scores": {
+      "math": 67,
+      "physics": 90,
+      "chemistry": 88
+    }
+  },
+  "98341": {
+    "name": "Zachary Lyons",
+    "scores": {
+      "math": 60,
+      "physics": 78,
+      "chemistry": 75
+    }
+  },
+  "75922": {
+    "name": "Samuel Knight",
+    "scores": {
+      "math": 67,
+      "physics": 99,
+      "chemistry": 93
+    }
+  },
+  "87395": {
+    "name": "Richard Mason",
+    "scores": {
+      "math": 90,
+      "physics": 65,
+      "chemistry": 64
+    }
+  },
+  "52098": {
+    "name": "Jorge Phillips",
+    "scores": {
+      "math": 95,
+      "physics": 99,
+      "chemistry": 80
+    }
+  },
+  "67768": {
+    "name": "Stephen Johns",
+    "scores": {
+      "math": 77,
+      "physics": 88,
+      "chemistry": 93
+    }
+  },
+  "57827": {
+    "name": "Roger Cooper",
+    "scores": {
+      "math": 62,
+      "physics": 99,
+      "chemistry": 77
+    }
+  },
+  "46314": {
+    "name": "Dr. Nancy Marks",
+    "scores": {
+      "math": 54,
+      "physics": 50,
+      "chemistry": 73
+    }
+  },
+  "51256": {
+    "name": "Jennifer Phillips",
+    "scores": {
+      "math": 51,
+      "physics": 52,
+      "chemistry": 71
+    }
+  },
+  "11583": {
+    "name": "David Diaz",
+    "scores": {
+      "math": 90,
+      "physics": 66,
+      "chemistry": 91
+    }
+  },
+  "27025": {
+    "name": "Michelle Meyer",
+    "scores": {
+      "math": 69,
+      "physics": 76,
+      "chemistry": 74
+    }
+  },
+  "45644": {
+    "name": "Melanie Frank",
+    "scores": {
+      "math": 56,
+      "physics": 64,
+      "chemistry": 62
+    }
+  },
+  "29857": {
+    "name": "Douglas Scott",
+    "scores": {
+      "math": 93,
+      "physics": 64,
+      "chemistry": 99
+    }
+  },
+  "40640": {
+    "name": "Zachary Bowman",
+    "scores": {
+      "math": 84,
+      "physics": 81,
+      "chemistry": 84
+    }
+  },
+  "63090": {
+    "name": "Roy Cordova",
+    "scores": {
+      "math": 57,
+      "physics": 93,
+      "chemistry": 96
+    }
+  },
+  "24687": {
+    "name": "Alexis Gibson",
+    "scores": {
+      "math": 88,
+      "physics": 51,
+      "chemistry": 66
+    }
+  },
+  "43420": {
+    "name": "Maurice Scott",
+    "scores": {
+      "math": 95,
+      "physics": 80,
+      "chemistry": 91
+    }
+  },
+  "36985": {
+    "name": "Theresa Willis",
+    "scores": {
+      "math": 56,
+      "physics": 57,
+      "chemistry": 73
+    }
+  },
+  "89744": {
+    "name": "Nicole Allison",
+    "scores": {
+      "math": 83,
+      "physics": 65,
+      "chemistry": 94
+    }
+  },
+  "94990": {
+    "name": "Kathryn Fry",
+    "scores": {
+      "math": 52,
+      "physics": 72,
+      "chemistry": 68
+    }
+  },
+  "47915": {
+    "name": "Jimmy Tran",
+    "scores": {
+      "math": 79,
+      "physics": 82,
+      "chemistry": 92
+    }
+  },
+  "62699": {
+    "name": "Kristy Fox",
+    "scores": {
+      "math": 60,
+      "physics": 97,
+      "chemistry": 57
+    }
+  },
+  "52201": {
+    "name": "Jessica Brown",
+    "scores": {
+      "math": 59,
+      "physics": 61,
+      "chemistry": 77
+    }
+  },
+  "49625": {
+    "name": "Tina Hester",
+    "scores": {
+      "math": 87,
+      "physics": 95,
+      "chemistry": 90
+    }
+  },
+  "16414": {
+    "name": "Roberto Fletcher",
+    "scores": {
+      "math": 60,
+      "physics": 96,
+      "chemistry": 62
+    }
+  },
+  "36296": {
+    "name": "James Williams",
+    "scores": {
+      "math": 58,
+      "physics": 56,
+      "chemistry": 96
+    }
+  },
+  "83925": {
+    "name": "Melissa Phillips",
+    "scores": {
+      "math": 65,
+      "physics": 84,
+      "chemistry": 59
+    }
+  },
+  "87999": {
+    "name": "Derek Smith",
+    "scores": {
+      "math": 72,
+      "physics": 99,
+      "chemistry": 50
+    }
+  },
+  "55231": {
+    "name": "William Mitchell",
+    "scores": {
+      "math": 82,
+      "physics": 56,
+      "chemistry": 98
+    }
+  },
+  "79935": {
+    "name": "Abigail Lucas",
+    "scores": {
+      "math": 85,
+      "physics": 61,
+      "chemistry": 99
+    }
+  },
+  "42233": {
+    "name": "Erin Bullock",
+    "scores": {
+      "math": 54,
+      "physics": 59,
+      "chemistry": 67
+    }
+  },
+  "23364": {
+    "name": "Devin Riley",
+    "scores": {
+      "math": 62,
+      "physics": 83,
+      "chemistry": 86
+    }
+  },
+  "88147": {
+    "name": "Victoria Garcia",
+    "scores": {
+      "math": 89,
+      "physics": 64,
+      "chemistry": 73
+    }
+  },
+  "60579": {
+    "name": "Richard Richard",
+    "scores": {
+      "math": 76,
+      "physics": 51,
+      "chemistry": 83
+    }
+  },
+  "93338": {
+    "name": "Alexis Anderson",
+    "scores": {
+      "math": 76,
+      "physics": 79,
+      "chemistry": 59
+    }
+  },
+  "92226": {
+    "name": "Michele Cain",
+    "scores": {
+      "math": 97,
+      "physics": 90,
+      "chemistry": 88
+    }
+  },
+  "89717": {
+    "name": "Kevin Salazar",
+    "scores": {
+      "math": 65,
+      "physics": 100,
+      "chemistry": 85
+    }
+  },
+  "40157": {
+    "name": "Jonathan Wagner",
+    "scores": {
+      "math": 58,
+      "physics": 59,
+      "chemistry": 73
+    }
+  },
+  "81503": {
+    "name": "Rachel Owens",
+    "scores": {
+      "math": 92,
+      "physics": 61,
+      "chemistry": 63
+    }
+  },
+  "68152": {
+    "name": "Stephen Brown",
+    "scores": {
+      "math": 88,
+      "physics": 58,
+      "chemistry": 98
+    }
+  },
+  "84739": {
+    "name": "Ryan Jones",
+    "scores": {
+      "math": 64,
+      "physics": 70,
+      "chemistry": 75
+    }
+  },
+  "98334": {
+    "name": "Tracy Barry",
+    "scores": {
+      "math": 99,
+      "physics": 72,
+      "chemistry": 77
+    }
+  },
+  "93654": {
+    "name": "April Blake",
+    "scores": {
+      "math": 51,
+      "physics": 92,
+      "chemistry": 72
+    }
+  },
+  "69717": {
+    "name": "James Sampson",
+    "scores": {
+      "math": 94,
+      "physics": 56,
+      "chemistry": 55
+    }
+  },
+  "81664": {
+    "name": "David Smith",
+    "scores": {
+      "math": 61,
+      "physics": 93,
+      "chemistry": 73
+    }
+  },
+  "60439": {
+    "name": "James Howell",
+    "scores": {
+      "math": 74,
+      "physics": 82,
+      "chemistry": 68
+    }
+  },
+  "37728": {
+    "name": "James Young",
+    "scores": {
+      "math": 95,
+      "physics": 89,
+      "chemistry": 64
+    }
+  },
+  "19133": {
+    "name": "Brenda Brown",
+    "scores": {
+      "math": 65,
+      "physics": 55,
+      "chemistry": 56
+    }
+  },
+  "59031": {
+    "name": "Lori Stuart",
+    "scores": {
+      "math": 62,
+      "physics": 53,
+      "chemistry": 62
+    }
+  },
+  "58767": {
+    "name": "Danielle Sparks",
+    "scores": {
+      "math": 74,
+      "physics": 52,
+      "chemistry": 54
+    }
+  },
+  "39924": {
+    "name": "Michael Bailey DVM",
+    "scores": {
+      "math": 89,
+      "physics": 73,
+      "chemistry": 96
+    }
+  },
+  "37369": {
+    "name": "Brandy Mullins",
+    "scores": {
+      "math": 63,
+      "physics": 59,
+      "chemistry": 72
+    }
+  },
+  "60239": {
+    "name": "Dr. Matthew Hancock DDS",
+    "scores": {
+      "math": 57,
+      "physics": 55,
+      "chemistry": 71
+    }
+  },
+  "39591": {
+    "name": "Rodney Webb",
+    "scores": {
+      "math": 71,
+      "physics": 87,
+      "chemistry": 55
+    }
+  },
+  "85757": {
+    "name": "Sarah Meyers",
+    "scores": {
+      "math": 68,
+      "physics": 75,
+      "chemistry": 64
+    }
+  },
+  "89993": {
+    "name": "Mr. David Powell",
+    "scores": {
+      "math": 72,
+      "physics": 88,
+      "chemistry": 73
+    }
+  },
+  "76355": {
+    "name": "Leslie Cooper",
+    "scores": {
+      "math": 54,
+      "physics": 81,
+      "chemistry": 61
+    }
+  },
+  "18582": {
+    "name": "Christine Jones",
+    "scores": {
+      "math": 100,
+      "physics": 60,
+      "chemistry": 74
+    }
+  },
+  "27750": {
+    "name": "James Stuart",
+    "scores": {
+      "math": 58,
+      "physics": 97,
+      "chemistry": 67
+    }
+  },
+  "79683": {
+    "name": "Katherine Bryant",
+    "scores": {
+      "math": 81,
+      "physics": 52,
+      "chemistry": 57
+    }
+  },
+  "48801": {
+    "name": "Michelle Baker",
+    "scores": {
+      "math": 57,
+      "physics": 84,
+      "chemistry": 51
+    }
+  },
+  "27354": {
+    "name": "Alexis Ortiz",
+    "scores": {
+      "math": 85,
+      "physics": 61,
+      "chemistry": 53
+    }
+  },
+  "80406": {
+    "name": "Thomas Mcknight",
+    "scores": {
+      "math": 64,
+      "physics": 62,
+      "chemistry": 59
+    }
+  },
+  "22130": {
+    "name": "William Payne",
+    "scores": {
+      "math": 62,
+      "physics": 73,
+      "chemistry": 84
+    }
+  },
+  "84978": {
+    "name": "Christopher Collins",
+    "scores": {
+      "math": 55,
+      "physics": 59,
+      "chemistry": 97
+    }
+  },
+  "24503": {
+    "name": "Christina Richardson",
+    "scores": {
+      "math": 66,
+      "physics": 100,
+      "chemistry": 82
+    }
+  },
+  "58513": {
+    "name": "Jennifer Acevedo",
+    "scores": {
+      "math": 77,
+      "physics": 57,
+      "chemistry": 78
+    }
+  },
+  "18136": {
+    "name": "Nicole Davis",
+    "scores": {
+      "math": 92,
+      "physics": 61,
+      "chemistry": 53
+    }
+  },
+  "69944": {
+    "name": "Colin Jackson",
+    "scores": {
+      "math": 86,
+      "physics": 62,
+      "chemistry": 55
+    }
+  },
+  "39065": {
+    "name": "Ian Vasquez",
+    "scores": {
+      "math": 99,
+      "physics": 95,
+      "chemistry": 87
+    }
+  },
+  "33539": {
+    "name": "Jennifer Lamb",
+    "scores": {
+      "math": 59,
+      "physics": 53,
+      "chemistry": 56
+    }
+  },
+  "29348": {
+    "name": "Carla May",
+    "scores": {
+      "math": 81,
+      "physics": 72,
+      "chemistry": 86
+    }
+  },
+  "65455": {
+    "name": "Stacy Taylor",
+    "scores": {
+      "math": 97,
+      "physics": 94,
+      "chemistry": 57
+    }
+  },
+  "98272": {
+    "name": "Peter Johnson",
+    "scores": {
+      "math": 85,
+      "physics": 53,
+      "chemistry": 64
+    }
+  },
+  "98324": {
+    "name": "Derek Greene",
+    "scores": {
+      "math": 63,
+      "physics": 50,
+      "chemistry": 62
+    }
+  },
+  "76737": {
+    "name": "Amber Alvarez",
+    "scores": {
+      "math": 86,
+      "physics": 78,
+      "chemistry": 57
+    }
+  },
+  "71858": {
+    "name": "Ariel Pollard",
+    "scores": {
+      "math": 82,
+      "physics": 74,
+      "chemistry": 51
+    }
+  },
+  "42461": {
+    "name": "Cheryl Miles",
+    "scores": {
+      "math": 99,
+      "physics": 98,
+      "chemistry": 97
+    }
+  },
+  "25144": {
+    "name": "Justin Thompson",
+    "scores": {
+      "math": 98,
+      "physics": 53,
+      "chemistry": 75
+    }
+  },
+  "50029": {
+    "name": "Austin Gonzalez",
+    "scores": {
+      "math": 93,
+      "physics": 59,
+      "chemistry": 55
+    }
+  },
+  "90992": {
+    "name": "Heather Mitchell",
+    "scores": {
+      "math": 92,
+      "physics": 69,
+      "chemistry": 51
+    }
+  },
+  "73932": {
+    "name": "Carly Joseph",
+    "scores": {
+      "math": 88,
+      "physics": 54,
+      "chemistry": 92
+    }
+  },
+  "18318": {
+    "name": "Joshua Hall",
+    "scores": {
+      "math": 76,
+      "physics": 75,
+      "chemistry": 83
+    }
+  },
+  "77876": {
+    "name": "Sara Newton",
+    "scores": {
+      "math": 87,
+      "physics": 74,
+      "chemistry": 75
+    }
+  },
+  "55877": {
+    "name": "Karen Harvey",
+    "scores": {
+      "math": 93,
+      "physics": 86,
+      "chemistry": 71
+    }
+  },
+  "58863": {
+    "name": "Jennifer Moore",
+    "scores": {
+      "math": 99,
+      "physics": 86,
+      "chemistry": 65
+    }
+  },
+  "69636": {
+    "name": "Zachary Cameron",
+    "scores": {
+      "math": 95,
+      "physics": 87,
+      "chemistry": 54
+    }
+  },
+  "22671": {
+    "name": "Patricia Matthews",
+    "scores": {
+      "math": 83,
+      "physics": 96,
+      "chemistry": 90
+    }
+  },
+  "81257": {
+    "name": "Teresa Clark",
+    "scores": {
+      "math": 82,
+      "physics": 91,
+      "chemistry": 58
+    }
+  },
+  "12247": {
+    "name": "Lee Golden",
+    "scores": {
+      "math": 84,
+      "physics": 72,
+      "chemistry": 67
+    }
+  },
+  "90244": {
+    "name": "Danielle Wood",
+    "scores": {
+      "math": 59,
+      "physics": 96,
+      "chemistry": 92
+    }
+  },
+  "56978": {
+    "name": "Emily Schultz",
+    "scores": {
+      "math": 59,
+      "physics": 73,
+      "chemistry": 60
+    }
+  },
+  "56927": {
+    "name": "Luis Adams",
+    "scores": {
+      "math": 56,
+      "physics": 71,
+      "chemistry": 89
+    }
+  },
+  "83684": {
+    "name": "Brenda Weeks",
+    "scores": {
+      "math": 100,
+      "physics": 80,
+      "chemistry": 86
+    }
+  },
+  "34911": {
+    "name": "Vanessa Simmons",
+    "scores": {
+      "math": 86,
+      "physics": 52,
+      "chemistry": 81
+    }
+  },
+  "89538": {
+    "name": "Lacey Savage",
+    "scores": {
+      "math": 63,
+      "physics": 83,
+      "chemistry": 55
+    }
+  },
+  "83953": {
+    "name": "Christopher Lam",
+    "scores": {
+      "math": 59,
+      "physics": 100,
+      "chemistry": 73
+    }
+  },
+  "16991": {
+    "name": "Veronica Hampton",
+    "scores": {
+      "math": 54,
+      "physics": 54,
+      "chemistry": 67
+    }
+  },
+  "30936": {
+    "name": "Joseph Wright",
+    "scores": {
+      "math": 100,
+      "physics": 55,
+      "chemistry": 70
+    }
+  },
+  "35688": {
+    "name": "Miss Ariana Arnold",
+    "scores": {
+      "math": 67,
+      "physics": 60,
+      "chemistry": 54
+    }
+  },
+  "40232": {
+    "name": "Ruben Casey",
+    "scores": {
+      "math": 80,
+      "physics": 79,
+      "chemistry": 94
+    }
+  },
+  "25672": {
+    "name": "Vanessa Howard",
+    "scores": {
+      "math": 86,
+      "physics": 59,
+      "chemistry": 76
+    }
+  },
+  "89401": {
+    "name": "Thomas Ramos",
+    "scores": {
+      "math": 82,
+      "physics": 70,
+      "chemistry": 94
+    }
+  },
+  "63032": {
+    "name": "Ronnie Montgomery",
+    "scores": {
+      "math": 86,
+      "physics": 62,
+      "chemistry": 61
+    }
+  },
+  "83214": {
+    "name": "Stacy Barrett",
+    "scores": {
+      "math": 87,
+      "physics": 85,
+      "chemistry": 55
+    }
+  },
+  "95705": {
+    "name": "Joseph Medina",
+    "scores": {
+      "math": 68,
+      "physics": 80,
+      "chemistry": 78
+    }
+  },
+  "27176": {
+    "name": "Thomas Moore",
+    "scores": {
+      "math": 76,
+      "physics": 84,
+      "chemistry": 63
+    }
+  },
+  "56055": {
+    "name": "Justin Miller",
+    "scores": {
+      "math": 89,
+      "physics": 72,
+      "chemistry": 60
+    }
+  },
+  "89752": {
+    "name": "Nicole Kramer",
+    "scores": {
+      "math": 61,
+      "physics": 67,
+      "chemistry": 99
+    }
+  },
+  "44089": {
+    "name": "William Stewart",
+    "scores": {
+      "math": 83,
+      "physics": 65,
+      "chemistry": 82
+    }
+  },
+  "36501": {
+    "name": "Jeffrey Reed",
+    "scores": {
+      "math": 75,
+      "physics": 70,
+      "chemistry": 93
+    }
+  },
+  "95989": {
+    "name": "Laura Griffin",
+    "scores": {
+      "math": 51,
+      "physics": 100,
+      "chemistry": 64
+    }
+  },
+  "88418": {
+    "name": "Timothy Hernandez",
+    "scores": {
+      "math": 54,
+      "physics": 73,
+      "chemistry": 58
+    }
+  },
+  "42210": {
+    "name": "Kathryn Martinez",
+    "scores": {
+      "math": 70,
+      "physics": 99,
+      "chemistry": 84
+    }
+  },
+  "19779": {
+    "name": "Miss Kimberly Miller",
+    "scores": {
+      "math": 100,
+      "physics": 53,
+      "chemistry": 74
+    }
+  },
+  "43234": {
+    "name": "Stacey Reeves",
+    "scores": {
+      "math": 58,
+      "physics": 97,
+      "chemistry": 58
+    }
+  },
+  "25351": {
+    "name": "Michael Chavez",
+    "scores": {
+      "math": 68,
+      "physics": 65,
+      "chemistry": 96
+    }
+  },
+  "58895": {
+    "name": "Jason Herrera",
+    "scores": {
+      "math": 96,
+      "physics": 91,
+      "chemistry": 50
+    }
+  },
+  "25445": {
+    "name": "Dean Bowers MD",
+    "scores": {
+      "math": 87,
+      "physics": 96,
+      "chemistry": 87
+    }
+  },
+  "48737": {
+    "name": "Mary Munoz",
+    "scores": {
+      "math": 90,
+      "physics": 50,
+      "chemistry": 89
+    }
+  },
+  "81370": {
+    "name": "Mckenzie Pratt",
+    "scores": {
+      "math": 81,
+      "physics": 75,
+      "chemistry": 72
+    }
+  },
+  "66630": {
+    "name": "Michael Riddle",
+    "scores": {
+      "math": 80,
+      "physics": 60,
+      "chemistry": 51
+    }
+  },
+  "32415": {
+    "name": "Alexandra Stephenson",
+    "scores": {
+      "math": 82,
+      "physics": 63,
+      "chemistry": 100
+    }
+  },
+  "82960": {
+    "name": "Linda Perry",
+    "scores": {
+      "math": 66,
+      "physics": 63,
+      "chemistry": 54
+    }
+  },
+  "29566": {
+    "name": "Jason Taylor",
+    "scores": {
+      "math": 54,
+      "physics": 88,
+      "chemistry": 52
+    }
+  },
+  "99139": {
+    "name": "Kristy Elliott",
+    "scores": {
+      "math": 75,
+      "physics": 69,
+      "chemistry": 82
+    }
+  },
+  "90848": {
+    "name": "Theresa Riley",
+    "scores": {
+      "math": 69,
+      "physics": 88,
+      "chemistry": 74
+    }
+  },
+  "38664": {
+    "name": "Christopher Brown",
+    "scores": {
+      "math": 99,
+      "physics": 62,
+      "chemistry": 85
+    }
+  },
+  "33479": {
+    "name": "Michelle Barker",
+    "scores": {
+      "math": 70,
+      "physics": 92,
+      "chemistry": 78
+    }
+  },
+  "98352": {
+    "name": "Kathy Mcdonald",
+    "scores": {
+      "math": 57,
+      "physics": 73,
+      "chemistry": 98
+    }
+  },
+  "87898": {
+    "name": "Laura Small",
+    "scores": {
+      "math": 83,
+      "physics": 94,
+      "chemistry": 60
+    }
+  },
+  "91588": {
+    "name": "Jordan Vargas",
+    "scores": {
+      "math": 87,
+      "physics": 68,
+      "chemistry": 70
+    }
+  },
+  "69365": {
+    "name": "Margaret Jones",
+    "scores": {
+      "math": 73,
+      "physics": 69,
+      "chemistry": 62
+    }
+  },
+  "39148": {
+    "name": "Sarah Love",
+    "scores": {
+      "math": 100,
+      "physics": 74,
+      "chemistry": 86
+    }
+  },
+  "58931": {
+    "name": "Leslie Roberts",
+    "scores": {
+      "math": 74,
+      "physics": 63,
+      "chemistry": 99
+    }
+  },
+  "71573": {
+    "name": "John Kelly",
+    "scores": {
+      "math": 77,
+      "physics": 88,
+      "chemistry": 96
+    }
+  },
+  "13139": {
+    "name": "Michelle Williams",
+    "scores": {
+      "math": 55,
+      "physics": 89,
+      "chemistry": 75
+    }
+  },
+  "83378": {
+    "name": "Carol Bates",
+    "scores": {
+      "math": 69,
+      "physics": 92,
+      "chemistry": 94
+    }
+  },
+  "89229": {
+    "name": "Karen Thompson",
+    "scores": {
+      "math": 67,
+      "physics": 56,
+      "chemistry": 73
+    }
+  },
+  "43231": {
+    "name": "Janet Vasquez",
+    "scores": {
+      "math": 100,
+      "physics": 65,
+      "chemistry": 97
+    }
+  },
+  "32889": {
+    "name": "Willie Smith",
+    "scores": {
+      "math": 67,
+      "physics": 76,
+      "chemistry": 65
+    }
+  },
+  "57495": {
+    "name": "Edwin Scott",
+    "scores": {
+      "math": 91,
+      "physics": 53,
+      "chemistry": 80
+    }
+  },
+  "66274": {
+    "name": "Ray Gonzalez",
+    "scores": {
+      "math": 94,
+      "physics": 95,
+      "chemistry": 70
+    }
+  },
+  "28341": {
+    "name": "Emily Jones",
+    "scores": {
+      "math": 79,
+      "physics": 72,
+      "chemistry": 77
+    }
+  },
+  "34485": {
+    "name": "Samuel Nicholson",
+    "scores": {
+      "math": 75,
+      "physics": 90,
+      "chemistry": 72
+    }
+  },
+  "19672": {
+    "name": "Angela Davidson",
+    "scores": {
+      "math": 70,
+      "physics": 67,
+      "chemistry": 92
+    }
+  },
+  "93826": {
+    "name": "Melinda Turner",
+    "scores": {
+      "math": 82,
+      "physics": 68,
+      "chemistry": 69
+    }
+  },
+  "84410": {
+    "name": "Andrea Tyler",
+    "scores": {
+      "math": 77,
+      "physics": 64,
+      "chemistry": 83
+    }
+  },
+  "14934": {
+    "name": "Monica Taylor",
+    "scores": {
+      "math": 91,
+      "physics": 69,
+      "chemistry": 94
+    }
+  },
+  "51772": {
+    "name": "Marilyn Prince",
+    "scores": {
+      "math": 74,
+      "physics": 55,
+      "chemistry": 99
+    }
+  },
+  "90526": {
+    "name": "Dave Cervantes",
+    "scores": {
+      "math": 63,
+      "physics": 76,
+      "chemistry": 64
+    }
+  },
+  "74031": {
+    "name": "Thomas Foster",
+    "scores": {
+      "math": 79,
+      "physics": 55,
+      "chemistry": 69
+    }
+  },
+  "74044": {
+    "name": "Tracy Mayer",
+    "scores": {
+      "math": 81,
+      "physics": 75,
+      "chemistry": 68
+    }
+  },
+  "44595": {
+    "name": "Abigail Flowers",
+    "scores": {
+      "math": 96,
+      "physics": 67,
+      "chemistry": 69
+    }
+  },
+  "23596": {
+    "name": "Kelly Santos",
+    "scores": {
+      "math": 94,
+      "physics": 78,
+      "chemistry": 67
+    }
+  },
+  "87641": {
+    "name": "Laura Mcfarland",
+    "scores": {
+      "math": 72,
+      "physics": 61,
+      "chemistry": 50
+    }
+  },
+  "55563": {
+    "name": "Natasha Davis",
+    "scores": {
+      "math": 57,
+      "physics": 64,
+      "chemistry": 74
+    }
+  },
+  "10964": {
+    "name": "Amanda Clark",
+    "scores": {
+      "math": 97,
+      "physics": 98,
+      "chemistry": 58
+    }
+  },
+  "23683": {
+    "name": "Jeff Fernandez",
+    "scores": {
+      "math": 69,
+      "physics": 53,
+      "chemistry": 63
+    }
+  },
+  "80859": {
+    "name": "James Cook",
+    "scores": {
+      "math": 55,
+      "physics": 66,
+      "chemistry": 85
+    }
+  },
+  "35957": {
+    "name": "Mr. Jordan Sutton MD",
+    "scores": {
+      "math": 92,
+      "physics": 57,
+      "chemistry": 96
+    }
+  },
+  "81535": {
+    "name": "Mr. Eric Jones",
+    "scores": {
+      "math": 77,
+      "physics": 50,
+      "chemistry": 76
+    }
+  },
+  "33224": {
+    "name": "David Russo",
+    "scores": {
+      "math": 59,
+      "physics": 58,
+      "chemistry": 73
+    }
+  },
+  "95660": {
+    "name": "Veronica Paul",
+    "scores": {
+      "math": 75,
+      "physics": 54,
+      "chemistry": 69
+    }
+  },
+  "84698": {
+    "name": "Teresa Galloway",
+    "scores": {
+      "math": 67,
+      "physics": 82,
+      "chemistry": 75
+    }
+  },
+  "83991": {
+    "name": "Chelsea Dalton",
+    "scores": {
+      "math": 59,
+      "physics": 52,
+      "chemistry": 68
+    }
+  },
+  "99555": {
+    "name": "Amber Taylor",
+    "scores": {
+      "math": 100,
+      "physics": 92,
+      "chemistry": 51
+    }
+  },
+  "48818": {
+    "name": "Jennifer Tran",
+    "scores": {
+      "math": 81,
+      "physics": 77,
+      "chemistry": 91
+    }
+  },
+  "16142": {
+    "name": "Roberto Burgess",
+    "scores": {
+      "math": 78,
+      "physics": 58,
+      "chemistry": 95
+    }
+  },
+  "95071": {
+    "name": "Jeffrey Mccoy",
+    "scores": {
+      "math": 52,
+      "physics": 99,
+      "chemistry": 55
+    }
+  },
+  "85814": {
+    "name": "Adam Carter",
+    "scores": {
+      "math": 72,
+      "physics": 90,
+      "chemistry": 57
+    }
+  },
+  "38077": {
+    "name": "Cindy Torres",
+    "scores": {
+      "math": 93,
+      "physics": 81,
+      "chemistry": 86
+    }
+  },
+  "89979": {
+    "name": "Mark Hernandez",
+    "scores": {
+      "math": 79,
+      "physics": 72,
+      "chemistry": 65
+    }
+  },
+  "24017": {
+    "name": "Cristian Taylor",
+    "scores": {
+      "math": 87,
+      "physics": 52,
+      "chemistry": 61
+    }
+  },
+  "94825": {
+    "name": "Brian Moore",
+    "scores": {
+      "math": 77,
+      "physics": 89,
+      "chemistry": 78
+    }
+  },
+  "35049": {
+    "name": "Amanda Green",
+    "scores": {
+      "math": 50,
+      "physics": 78,
+      "chemistry": 57
+    }
+  },
+  "53101": {
+    "name": "Kristina Palmer",
+    "scores": {
+      "math": 75,
+      "physics": 84,
+      "chemistry": 58
+    }
+  },
+  "36431": {
+    "name": "Dorothy Hunter",
+    "scores": {
+      "math": 92,
+      "physics": 100,
+      "chemistry": 66
+    }
+  },
+  "53339": {
+    "name": "Daniel Vargas",
+    "scores": {
+      "math": 98,
+      "physics": 70,
+      "chemistry": 58
+    }
+  },
+  "78499": {
+    "name": "Michael Johnson",
+    "scores": {
+      "math": 90,
+      "physics": 96,
+      "chemistry": 79
+    }
+  },
+  "52332": {
+    "name": "Wendy Lopez",
+    "scores": {
+      "math": 97,
+      "physics": 58,
+      "chemistry": 53
+    }
+  },
+  "34146": {
+    "name": "Diane Paul",
+    "scores": {
+      "math": 72,
+      "physics": 54,
+      "chemistry": 85
+    }
+  },
+  "13012": {
+    "name": "Olivia Copeland",
+    "scores": {
+      "math": 72,
+      "physics": 81,
+      "chemistry": 86
+    }
+  },
+  "71816": {
+    "name": "Rebecca Richard",
+    "scores": {
+      "math": 61,
+      "physics": 62,
+      "chemistry": 71
+    }
+  },
+  "32299": {
+    "name": "Nicole Price",
+    "scores": {
+      "math": 68,
+      "physics": 95,
+      "chemistry": 76
+    }
+  },
+  "65587": {
+    "name": "Kevin Lindsey",
+    "scores": {
+      "math": 90,
+      "physics": 61,
+      "chemistry": 73
+    }
+  },
+  "70080": {
+    "name": "Michael Hahn",
+    "scores": {
+      "math": 100,
+      "physics": 96,
+      "chemistry": 55
+    }
+  },
+  "12372": {
+    "name": "Sabrina May",
+    "scores": {
+      "math": 54,
+      "physics": 67,
+      "chemistry": 65
+    }
+  },
+  "40009": {
+    "name": "William Ashley",
+    "scores": {
+      "math": 85,
+      "physics": 98,
+      "chemistry": 66
+    }
+  },
+  "76701": {
+    "name": "Roy Cantrell",
+    "scores": {
+      "math": 92,
+      "physics": 94,
+      "chemistry": 60
+    }
+  },
+  "97177": {
+    "name": "Mitchell Griffin",
+    "scores": {
+      "math": 91,
+      "physics": 54,
+      "chemistry": 91
+    }
+  },
+  "42907": {
+    "name": "Bobby Fox",
+    "scores": {
+      "math": 74,
+      "physics": 100,
+      "chemistry": 80
+    }
+  },
+  "38731": {
+    "name": "Johnny Santiago",
+    "scores": {
+      "math": 76,
+      "physics": 80,
+      "chemistry": 57
+    }
+  },
+  "76385": {
+    "name": "Kathleen Soto",
+    "scores": {
+      "math": 70,
+      "physics": 64,
+      "chemistry": 70
+    }
+  },
+  "51014": {
+    "name": "Aaron Phelps",
+    "scores": {
+      "math": 52,
+      "physics": 78,
+      "chemistry": 95
+    }
+  },
+  "77843": {
+    "name": "Luis Fuller",
+    "scores": {
+      "math": 83,
+      "physics": 71,
+      "chemistry": 78
+    }
+  },
+  "66296": {
+    "name": "Jennifer Edwards",
+    "scores": {
+      "math": 88,
+      "physics": 96,
+      "chemistry": 59
+    }
+  },
+  "93734": {
+    "name": "Christopher Anderson",
+    "scores": {
+      "math": 55,
+      "physics": 57,
+      "chemistry": 59
+    }
+  },
+  "54061": {
+    "name": "Michael Miller",
+    "scores": {
+      "math": 71,
+      "physics": 79,
+      "chemistry": 86
+    }
+  },
+  "36621": {
+    "name": "Carol Curtis",
+    "scores": {
+      "math": 88,
+      "physics": 78,
+      "chemistry": 58
+    }
+  },
+  "43979": {
+    "name": "Jonathan Strong",
+    "scores": {
+      "math": 73,
+      "physics": 86,
+      "chemistry": 58
+    }
+  },
+  "70635": {
+    "name": "Matthew Wright",
+    "scores": {
+      "math": 91,
+      "physics": 59,
+      "chemistry": 55
+    }
+  },
+  "75126": {
+    "name": "Ashley Wiley",
+    "scores": {
+      "math": 64,
+      "physics": 99,
+      "chemistry": 85
+    }
+  },
+  "56095": {
+    "name": "Daniel Cook",
+    "scores": {
+      "math": 55,
+      "physics": 58,
+      "chemistry": 63
+    }
+  },
+  "48223": {
+    "name": "Margaret Day",
+    "scores": {
+      "math": 84,
+      "physics": 90,
+      "chemistry": 51
+    }
+  },
+  "92723": {
+    "name": "Tracy Garcia",
+    "scores": {
+      "math": 80,
+      "physics": 87,
+      "chemistry": 67
+    }
+  },
+  "86519": {
+    "name": "Amy Hall",
+    "scores": {
+      "math": 52,
+      "physics": 97,
+      "chemistry": 88
+    }
+  },
+  "60876": {
+    "name": "Mariah Adams",
+    "scores": {
+      "math": 79,
+      "physics": 69,
+      "chemistry": 83
+    }
+  },
+  "33572": {
+    "name": "Darryl Blankenship",
+    "scores": {
+      "math": 62,
+      "physics": 74,
+      "chemistry": 71
+    }
+  },
+  "70078": {
+    "name": "Michael Norris",
+    "scores": {
+      "math": 62,
+      "physics": 98,
+      "chemistry": 86
+    }
+  },
+  "47741": {
+    "name": "Chelsea Cardenas",
+    "scores": {
+      "math": 80,
+      "physics": 85,
+      "chemistry": 57
+    }
+  },
+  "66478": {
+    "name": "Brandon Norris",
+    "scores": {
+      "math": 69,
+      "physics": 57,
+      "chemistry": 84
+    }
+  },
+  "11146": {
+    "name": "Kimberly Weeks",
+    "scores": {
+      "math": 93,
+      "physics": 51,
+      "chemistry": 85
+    }
+  },
+  "19192": {
+    "name": "Laura Murphy",
+    "scores": {
+      "math": 91,
+      "physics": 100,
+      "chemistry": 77
+    }
+  },
+  "24996": {
+    "name": "Summer Cox",
+    "scores": {
+      "math": 61,
+      "physics": 78,
+      "chemistry": 61
+    }
+  },
+  "53689": {
+    "name": "Ashley Patrick",
+    "scores": {
+      "math": 69,
+      "physics": 70,
+      "chemistry": 58
+    }
+  },
+  "84022": {
+    "name": "Laura Taylor",
+    "scores": {
+      "math": 54,
+      "physics": 76,
+      "chemistry": 70
+    }
+  },
+  "37248": {
+    "name": "Jamie Morales",
+    "scores": {
+      "math": 50,
+      "physics": 81,
+      "chemistry": 85
+    }
+  },
+  "58468": {
+    "name": "Monica Lewis",
+    "scores": {
+      "math": 58,
+      "physics": 63,
+      "chemistry": 75
+    }
+  },
+  "50247": {
+    "name": "Crystal Lucas",
+    "scores": {
+      "math": 92,
+      "physics": 91,
+      "chemistry": 98
+    }
+  },
+  "43661": {
+    "name": "Elizabeth Klein",
+    "scores": {
+      "math": 85,
+      "physics": 92,
+      "chemistry": 94
+    }
+  },
+  "34749": {
+    "name": "James Williams",
+    "scores": {
+      "math": 91,
+      "physics": 93,
+      "chemistry": 68
+    }
+  },
+  "67690": {
+    "name": "Jeffrey Kirby",
+    "scores": {
+      "math": 56,
+      "physics": 98,
+      "chemistry": 91
+    }
+  },
+  "13249": {
+    "name": "Tina King",
+    "scores": {
+      "math": 96,
+      "physics": 95,
+      "chemistry": 100
+    }
+  },
+  "67452": {
+    "name": "Dillon Duarte",
+    "scores": {
+      "math": 53,
+      "physics": 92,
+      "chemistry": 68
+    }
+  },
+  "94483": {
+    "name": "Brian Melendez",
+    "scores": {
+      "math": 97,
+      "physics": 94,
+      "chemistry": 56
+    }
+  },
+  "19265": {
+    "name": "Gina Parks",
+    "scores": {
+      "math": 65,
+      "physics": 53,
+      "chemistry": 63
+    }
+  },
+  "10759": {
+    "name": "Louis Huynh",
+    "scores": {
+      "math": 54,
+      "physics": 65,
+      "chemistry": 96
+    }
+  },
+  "19940": {
+    "name": "Nancy Clark",
+    "scores": {
+      "math": 78,
+      "physics": 58,
+      "chemistry": 83
+    }
+  },
+  "77610": {
+    "name": "Mark Taylor",
+    "scores": {
+      "math": 62,
+      "physics": 98,
+      "chemistry": 76
+    }
+  },
+  "15217": {
+    "name": "David Allen",
+    "scores": {
+      "math": 100,
+      "physics": 98,
+      "chemistry": 90
+    }
+  },
+  "31873": {
+    "name": "Lori Rollins",
+    "scores": {
+      "math": 56,
+      "physics": 70,
+      "chemistry": 74
+    }
+  },
+  "17645": {
+    "name": "Aaron Roach",
+    "scores": {
+      "math": 97,
+      "physics": 79,
+      "chemistry": 71
+    }
+  },
+  "77236": {
+    "name": "Zachary Petersen",
+    "scores": {
+      "math": 98,
+      "physics": 72,
+      "chemistry": 68
+    }
+  },
+  "78582": {
+    "name": "Jason Powell",
+    "scores": {
+      "math": 51,
+      "physics": 62,
+      "chemistry": 98
+    }
+  },
+  "52390": {
+    "name": "Ann Barrett",
+    "scores": {
+      "math": 68,
+      "physics": 50,
+      "chemistry": 96
+    }
+  },
+  "95749": {
+    "name": "Henry Taylor",
+    "scores": {
+      "math": 58,
+      "physics": 96,
+      "chemistry": 55
+    }
+  },
+  "79034": {
+    "name": "Perry Ewing",
+    "scores": {
+      "math": 93,
+      "physics": 82,
+      "chemistry": 87
+    }
+  },
+  "86405": {
+    "name": "Dorothy Williams",
+    "scores": {
+      "math": 67,
+      "physics": 70,
+      "chemistry": 56
+    }
+  },
+  "86265": {
+    "name": "Eric Hansen",
+    "scores": {
+      "math": 71,
+      "physics": 55,
+      "chemistry": 60
+    }
+  },
+  "56088": {
+    "name": "Monique Galvan",
+    "scores": {
+      "math": 82,
+      "physics": 53,
+      "chemistry": 55
+    }
+  },
+  "45791": {
+    "name": "James Adams",
+    "scores": {
+      "math": 50,
+      "physics": 77,
+      "chemistry": 53
+    }
+  },
+  "73797": {
+    "name": "John Keller",
+    "scores": {
+      "math": 77,
+      "physics": 70,
+      "chemistry": 84
+    }
+  },
+  "75214": {
+    "name": "Richard Woods",
+    "scores": {
+      "math": 92,
+      "physics": 98,
+      "chemistry": 57
+    }
+  },
+  "23484": {
+    "name": "Ashley Mccormick",
+    "scores": {
+      "math": 88,
+      "physics": 89,
+      "chemistry": 80
+    }
+  },
+  "50047": {
+    "name": "Katherine Oneal",
+    "scores": {
+      "math": 57,
+      "physics": 87,
+      "chemistry": 79
+    }
+  },
+  "76374": {
+    "name": "Rodney Moon",
+    "scores": {
+      "math": 63,
+      "physics": 62,
+      "chemistry": 60
+    }
+  },
+  "95538": {
+    "name": "James Park",
+    "scores": {
+      "math": 88,
+      "physics": 87,
+      "chemistry": 50
+    }
+  },
+  "79921": {
+    "name": "Laura Boone",
+    "scores": {
+      "math": 93,
+      "physics": 72,
+      "chemistry": 84
+    }
+  },
+  "49665": {
+    "name": "Kara Meyer",
+    "scores": {
+      "math": 65,
+      "physics": 51,
+      "chemistry": 90
+    }
+  },
+  "90714": {
+    "name": "Richard Roberts",
+    "scores": {
+      "math": 96,
+      "physics": 70,
+      "chemistry": 61
+    }
+  },
+  "28739": {
+    "name": "Denise Weber",
+    "scores": {
+      "math": 59,
+      "physics": 81,
+      "chemistry": 92
+    }
+  },
+  "57399": {
+    "name": "Zachary Smith",
+    "scores": {
+      "math": 58,
+      "physics": 54,
+      "chemistry": 64
+    }
+  },
+  "35582": {
+    "name": "Miguel Hensley",
+    "scores": {
+      "math": 56,
+      "physics": 63,
+      "chemistry": 53
+    }
+  },
+  "68513": {
+    "name": "David Johns",
+    "scores": {
+      "math": 77,
+      "physics": 60,
+      "chemistry": 87
+    }
+  },
+  "19185": {
+    "name": "Kristopher Mckinney",
+    "scores": {
+      "math": 88,
+      "physics": 65,
+      "chemistry": 95
+    }
+  },
+  "68213": {
+    "name": "Timothy Wallace",
+    "scores": {
+      "math": 96,
+      "physics": 70,
+      "chemistry": 87
+    }
+  },
+  "55220": {
+    "name": "Cheryl Oneill",
+    "scores": {
+      "math": 92,
+      "physics": 93,
+      "chemistry": 86
+    }
+  },
+  "46830": {
+    "name": "Christopher Gross",
+    "scores": {
+      "math": 60,
+      "physics": 87,
+      "chemistry": 59
+    }
+  },
+  "51440": {
+    "name": "Carla Richards",
+    "scores": {
+      "math": 100,
+      "physics": 68,
+      "chemistry": 51
+    }
+  },
+  "79436": {
+    "name": "Mary Martinez",
+    "scores": {
+      "math": 87,
+      "physics": 88,
+      "chemistry": 53
+    }
+  },
+  "79208": {
+    "name": "Amy Wade",
+    "scores": {
+      "math": 71,
+      "physics": 93,
+      "chemistry": 72
+    }
+  },
+  "28518": {
+    "name": "Michelle Goodwin",
+    "scores": {
+      "math": 99,
+      "physics": 61,
+      "chemistry": 82
+    }
+  },
+  "13396": {
+    "name": "Michael Williams",
+    "scores": {
+      "math": 50,
+      "physics": 89,
+      "chemistry": 99
+    }
+  },
+  "55911": {
+    "name": "Rebecca Reyes PhD",
+    "scores": {
+      "math": 79,
+      "physics": 61,
+      "chemistry": 68
+    }
+  },
+  "68274": {
+    "name": "Maria Anderson",
+    "scores": {
+      "math": 76,
+      "physics": 81,
+      "chemistry": 65
+    }
+  },
+  "35179": {
+    "name": "Brittany Parrish",
+    "scores": {
+      "math": 51,
+      "physics": 98,
+      "chemistry": 78
+    }
+  },
+  "56397": {
+    "name": "Brenda Graves",
+    "scores": {
+      "math": 77,
+      "physics": 67,
+      "chemistry": 100
+    }
+  },
+  "80831": {
+    "name": "Deborah Jacobs",
+    "scores": {
+      "math": 65,
+      "physics": 66,
+      "chemistry": 100
+    }
+  },
+  "48468": {
+    "name": "Louis Douglas",
+    "scores": {
+      "math": 62,
+      "physics": 53,
+      "chemistry": 60
+    }
+  },
+  "84909": {
+    "name": "Natasha Soto",
+    "scores": {
+      "math": 52,
+      "physics": 68,
+      "chemistry": 58
+    }
+  },
+  "24763": {
+    "name": "Jeremy Glover",
+    "scores": {
+      "math": 53,
+      "physics": 81,
+      "chemistry": 78
+    }
+  },
+  "44392": {
+    "name": "Wayne Diaz",
+    "scores": {
+      "math": 72,
+      "physics": 85,
+      "chemistry": 56
+    }
+  },
+  "40649": {
+    "name": "Joshua Burns",
+    "scores": {
+      "math": 97,
+      "physics": 88,
+      "chemistry": 67
+    }
+  },
+  "39367": {
+    "name": "Savannah Moore",
+    "scores": {
+      "math": 57,
+      "physics": 95,
+      "chemistry": 82
+    }
+  },
+  "18342": {
+    "name": "Nicholas Turner",
+    "scores": {
+      "math": 74,
+      "physics": 74,
+      "chemistry": 60
+    }
+  },
+  "54701": {
+    "name": "Rhonda Vazquez",
+    "scores": {
+      "math": 74,
+      "physics": 56,
+      "chemistry": 56
+    }
+  },
+  "19231": {
+    "name": "Mrs. Kathleen Lee",
+    "scores": {
+      "math": 89,
+      "physics": 99,
+      "chemistry": 92
+    }
+  },
+  "46608": {
+    "name": "Heather Moreno",
+    "scores": {
+      "math": 61,
+      "physics": 89,
+      "chemistry": 57
+    }
+  },
+  "39790": {
+    "name": "Joseph Gilmore",
+    "scores": {
+      "math": 57,
+      "physics": 67,
+      "chemistry": 53
+    }
+  },
+  "49094": {
+    "name": "Brenda Medina",
+    "scores": {
+      "math": 77,
+      "physics": 90,
+      "chemistry": 79
+    }
+  },
+  "96621": {
+    "name": "Brenda Jacobs",
+    "scores": {
+      "math": 73,
+      "physics": 95,
+      "chemistry": 80
+    }
+  },
+  "51694": {
+    "name": "Christopher Burton",
+    "scores": {
+      "math": 57,
+      "physics": 67,
+      "chemistry": 51
+    }
+  },
+  "35520": {
+    "name": "Michael Roberts",
+    "scores": {
+      "math": 63,
+      "physics": 77,
+      "chemistry": 70
+    }
+  },
+  "81251": {
+    "name": "Dr. Veronica Ball DDS",
+    "scores": {
+      "math": 54,
+      "physics": 67,
+      "chemistry": 94
+    }
+  },
+  "19226": {
+    "name": "Kimberly Baker",
+    "scores": {
+      "math": 86,
+      "physics": 59,
+      "chemistry": 98
+    }
+  },
+  "41697": {
+    "name": "Katherine Nelson",
+    "scores": {
+      "math": 68,
+      "physics": 66,
+      "chemistry": 69
+    }
+  },
+  "24750": {
+    "name": "Sandy Mullen",
+    "scores": {
+      "math": 50,
+      "physics": 98,
+      "chemistry": 70
+    }
+  },
+  "45677": {
+    "name": "Logan Thompson",
+    "scores": {
+      "math": 79,
+      "physics": 87,
+      "chemistry": 82
+    }
+  },
+  "26917": {
+    "name": "David Miller",
+    "scores": {
+      "math": 62,
+      "physics": 67,
+      "chemistry": 59
+    }
+  },
+  "37793": {
+    "name": "Beth Robbins",
+    "scores": {
+      "math": 91,
+      "physics": 87,
+      "chemistry": 52
+    }
+  },
+  "90768": {
+    "name": "Frank Sanchez",
+    "scores": {
+      "math": 89,
+      "physics": 51,
+      "chemistry": 77
+    }
+  },
+  "49141": {
+    "name": "Nicole Cox",
+    "scores": {
+      "math": 65,
+      "physics": 78,
+      "chemistry": 96
+    }
+  },
+  "35898": {
+    "name": "Aaron Finley",
+    "scores": {
+      "math": 85,
+      "physics": 60,
+      "chemistry": 90
+    }
+  },
+  "12821": {
+    "name": "Amy Ryan",
+    "scores": {
+      "math": 100,
+      "physics": 68,
+      "chemistry": 91
+    }
+  },
+  "28124": {
+    "name": "Benjamin Hodges",
+    "scores": {
+      "math": 98,
+      "physics": 58,
+      "chemistry": 85
+    }
+  },
+  "21274": {
+    "name": "Leslie Jackson",
+    "scores": {
+      "math": 98,
+      "physics": 78,
+      "chemistry": 62
+    }
+  },
+  "69874": {
+    "name": "Janet Smith",
+    "scores": {
+      "math": 74,
+      "physics": 82,
+      "chemistry": 91
+    }
+  },
+  "24161": {
+    "name": "Timothy Rice",
+    "scores": {
+      "math": 70,
+      "physics": 68,
+      "chemistry": 63
+    }
+  },
+  "61353": {
+    "name": "Gabriel Blankenship",
+    "scores": {
+      "math": 78,
+      "physics": 71,
+      "chemistry": 95
+    }
+  },
+  "93891": {
+    "name": "Steven Ritter",
+    "scores": {
+      "math": 83,
+      "physics": 94,
+      "chemistry": 53
+    }
+  },
+  "40712": {
+    "name": "Jessica Neal",
+    "scores": {
+      "math": 62,
+      "physics": 75,
+      "chemistry": 71
+    }
+  },
+  "23759": {
+    "name": "Courtney Estrada",
+    "scores": {
+      "math": 90,
+      "physics": 77,
+      "chemistry": 90
+    }
+  },
+  "88750": {
+    "name": "Kevin Kelly",
+    "scores": {
+      "math": 53,
+      "physics": 92,
+      "chemistry": 84
+    }
+  },
+  "25792": {
+    "name": "Donald Oneill",
+    "scores": {
+      "math": 65,
+      "physics": 58,
+      "chemistry": 92
+    }
+  },
+  "52491": {
+    "name": "Carl Guzman",
+    "scores": {
+      "math": 76,
+      "physics": 51,
+      "chemistry": 84
+    }
+  },
+  "77400": {
+    "name": "Benjamin Woods",
+    "scores": {
+      "math": 58,
+      "physics": 58,
+      "chemistry": 72
+    }
+  },
+  "93279": {
+    "name": "Kevin Poole",
+    "scores": {
+      "math": 83,
+      "physics": 67,
+      "chemistry": 88
+    }
+  },
+  "67624": {
+    "name": "Mark Barry",
+    "scores": {
+      "math": 66,
+      "physics": 61,
+      "chemistry": 99
+    }
+  },
+  "89230": {
+    "name": "Cristina Bryant",
+    "scores": {
+      "math": 68,
+      "physics": 70,
+      "chemistry": 63
+    }
+  },
+  "12109": {
+    "name": "Paul Oconnell",
+    "scores": {
+      "math": 98,
+      "physics": 71,
+      "chemistry": 82
+    }
+  },
+  "69268": {
+    "name": "Gwendolyn Black",
+    "scores": {
+      "math": 89,
+      "physics": 66,
+      "chemistry": 90
+    }
+  },
+  "74752": {
+    "name": "Dawn Garrett",
+    "scores": {
+      "math": 56,
+      "physics": 56,
+      "chemistry": 81
+    }
+  },
+  "83373": {
+    "name": "Sherry Davis",
+    "scores": {
+      "math": 62,
+      "physics": 88,
+      "chemistry": 76
+    }
+  },
+  "19991": {
+    "name": "Joseph Sanchez",
+    "scores": {
+      "math": 93,
+      "physics": 67,
+      "chemistry": 65
+    }
+  },
+  "90552": {
+    "name": "Thomas Bennett",
+    "scores": {
+      "math": 74,
+      "physics": 93,
+      "chemistry": 61
+    }
+  },
+  "44716": {
+    "name": "Jessica Harris",
+    "scores": {
+      "math": 55,
+      "physics": 52,
+      "chemistry": 98
+    }
+  },
+  "83339": {
+    "name": "Adam Shaffer",
+    "scores": {
+      "math": 81,
+      "physics": 86,
+      "chemistry": 64
+    }
+  },
+  "46000": {
+    "name": "Jonathan Moore",
+    "scores": {
+      "math": 70,
+      "physics": 66,
+      "chemistry": 67
+    }
+  },
+  "24775": {
+    "name": "Robert Schultz",
+    "scores": {
+      "math": 51,
+      "physics": 80,
+      "chemistry": 79
+    }
+  },
+  "10666": {
+    "name": "Adam Nelson",
+    "scores": {
+      "math": 93,
+      "physics": 70,
+      "chemistry": 80
+    }
+  },
+  "95874": {
+    "name": "Christine Colon",
+    "scores": {
+      "math": 96,
+      "physics": 93,
+      "chemistry": 75
+    }
+  },
+  "45394": {
+    "name": "Erica Nichols",
+    "scores": {
+      "math": 67,
+      "physics": 88,
+      "chemistry": 52
+    }
+  },
+  "89652": {
+    "name": "Mrs. Christina Reese DVM",
+    "scores": {
+      "math": 59,
+      "physics": 97,
+      "chemistry": 72
+    }
+  },
+  "48699": {
+    "name": "Eric Reid",
+    "scores": {
+      "math": 95,
+      "physics": 85,
+      "chemistry": 88
+    }
+  },
+  "33931": {
+    "name": "Bryce Nguyen",
+    "scores": {
+      "math": 78,
+      "physics": 75,
+      "chemistry": 81
+    }
+  },
+  "67061": {
+    "name": "John Poole",
+    "scores": {
+      "math": 98,
+      "physics": 96,
+      "chemistry": 72
+    }
+  },
+  "81791": {
+    "name": "Jeffrey Fisher",
+    "scores": {
+      "math": 52,
+      "physics": 75,
+      "chemistry": 53
+    }
+  },
+  "95744": {
+    "name": "Michael Mcguire",
+    "scores": {
+      "math": 69,
+      "physics": 67,
+      "chemistry": 60
+    }
+  },
+  "70475": {
+    "name": "Carla King",
+    "scores": {
+      "math": 93,
+      "physics": 85,
+      "chemistry": 71
+    }
+  },
+  "95797": {
+    "name": "Charles Henderson",
+    "scores": {
+      "math": 66,
+      "physics": 86,
+      "chemistry": 85
+    }
+  },
+  "14417": {
+    "name": "Mallory Hopkins",
+    "scores": {
+      "math": 52,
+      "physics": 88,
+      "chemistry": 55
+    }
+  },
+  "78739": {
+    "name": "Jillian Stuart",
+    "scores": {
+      "math": 84,
+      "physics": 55,
+      "chemistry": 91
+    }
+  },
+  "60760": {
+    "name": "Bradley Goodman",
+    "scores": {
+      "math": 99,
+      "physics": 81,
+      "chemistry": 75
+    }
+  },
+  "26280": {
+    "name": "Karen Garcia",
+    "scores": {
+      "math": 94,
+      "physics": 87,
+      "chemistry": 78
+    }
+  },
+  "92071": {
+    "name": "Mr. Chris Herrera",
+    "scores": {
+      "math": 100,
+      "physics": 100,
+      "chemistry": 76
+    }
+  },
+  "60446": {
+    "name": "Robert Lewis",
+    "scores": {
+      "math": 54,
+      "physics": 93,
+      "chemistry": 93
+    }
+  },
+  "76671": {
+    "name": "Melanie Ramirez",
+    "scores": {
+      "math": 91,
+      "physics": 87,
+      "chemistry": 83
+    }
+  },
+  "75781": {
+    "name": "Natalie Jones",
+    "scores": {
+      "math": 88,
+      "physics": 72,
+      "chemistry": 53
+    }
+  },
+  "56463": {
+    "name": "Helen Griffin",
+    "scores": {
+      "math": 52,
+      "physics": 84,
+      "chemistry": 52
+    }
+  },
+  "57879": {
+    "name": "Jeremy Mcclain",
+    "scores": {
+      "math": 79,
+      "physics": 98,
+      "chemistry": 95
+    }
+  },
+  "69385": {
+    "name": "Mr. Duane Armstrong",
+    "scores": {
+      "math": 91,
+      "physics": 91,
+      "chemistry": 58
+    }
+  },
+  "52392": {
+    "name": "Kathleen Melendez",
+    "scores": {
+      "math": 59,
+      "physics": 88,
+      "chemistry": 80
+    }
+  },
+  "15564": {
+    "name": "Jennifer Sloan",
+    "scores": {
+      "math": 56,
+      "physics": 65,
+      "chemistry": 69
+    }
+  },
+  "45564": {
+    "name": "Anna Gregory",
+    "scores": {
+      "math": 91,
+      "physics": 62,
+      "chemistry": 69
+    }
+  },
+  "91231": {
+    "name": "Stephanie Williams",
+    "scores": {
+      "math": 70,
+      "physics": 99,
+      "chemistry": 62
+    }
+  },
+  "19638": {
+    "name": "Lee Cummings",
+    "scores": {
+      "math": 59,
+      "physics": 81,
+      "chemistry": 90
+    }
+  },
+  "24481": {
+    "name": "James Martinez",
+    "scores": {
+      "math": 78,
+      "physics": 67,
+      "chemistry": 72
+    }
+  },
+  "62199": {
+    "name": "Corey Wilson",
+    "scores": {
+      "math": 78,
+      "physics": 94,
+      "chemistry": 95
+    }
+  },
+  "24509": {
+    "name": "Brenda Miller",
+    "scores": {
+      "math": 75,
+      "physics": 82,
+      "chemistry": 89
+    }
+  },
+  "38687": {
+    "name": "Jeffrey Anderson",
+    "scores": {
+      "math": 54,
+      "physics": 91,
+      "chemistry": 95
+    }
+  },
+  "92559": {
+    "name": "Julia Nelson",
+    "scores": {
+      "math": 72,
+      "physics": 96,
+      "chemistry": 75
+    }
+  },
+  "41235": {
+    "name": "Hannah Reilly",
+    "scores": {
+      "math": 73,
+      "physics": 56,
+      "chemistry": 62
+    }
+  },
+  "66582": {
+    "name": "Adam Bennett",
+    "scores": {
+      "math": 79,
+      "physics": 100,
+      "chemistry": 59
+    }
+  },
+  "67158": {
+    "name": "Richard Mays",
+    "scores": {
+      "math": 53,
+      "physics": 98,
+      "chemistry": 80
+    }
+  },
+  "76928": {
+    "name": "Jay Ryan",
+    "scores": {
+      "math": 91,
+      "physics": 68,
+      "chemistry": 85
+    }
+  },
+  "18905": {
+    "name": "Michael Wheeler",
+    "scores": {
+      "math": 59,
+      "physics": 79,
+      "chemistry": 62
+    }
+  },
+  "41339": {
+    "name": "Lori Mathis",
+    "scores": {
+      "math": 77,
+      "physics": 70,
+      "chemistry": 61
+    }
+  },
+  "51640": {
+    "name": "Julie Cummings",
+    "scores": {
+      "math": 59,
+      "physics": 93,
+      "chemistry": 58
+    }
+  },
+  "29467": {
+    "name": "Kenneth Scott",
+    "scores": {
+      "math": 84,
+      "physics": 74,
+      "chemistry": 61
+    }
+  },
+  "99864": {
+    "name": "Christopher Valdez",
+    "scores": {
+      "math": 71,
+      "physics": 68,
+      "chemistry": 80
+    }
+  },
+  "32421": {
+    "name": "Heather Wilkins",
+    "scores": {
+      "math": 97,
+      "physics": 83,
+      "chemistry": 85
+    }
+  },
+  "35084": {
+    "name": "Justin Schroeder",
+    "scores": {
+      "math": 57,
+      "physics": 87,
+      "chemistry": 70
+    }
+  },
+  "60571": {
+    "name": "Lauren Lee",
+    "scores": {
+      "math": 77,
+      "physics": 73,
+      "chemistry": 53
+    }
+  },
+  "77886": {
+    "name": "Kim Hernandez",
+    "scores": {
+      "math": 73,
+      "physics": 52,
+      "chemistry": 98
+    }
+  },
+  "16959": {
+    "name": "Miranda Nichols",
+    "scores": {
+      "math": 83,
+      "physics": 85,
+      "chemistry": 64
+    }
+  },
+  "98303": {
+    "name": "Henry Hicks",
+    "scores": {
+      "math": 71,
+      "physics": 85,
+      "chemistry": 65
+    }
+  },
+  "88012": {
+    "name": "David Gould",
+    "scores": {
+      "math": 61,
+      "physics": 94,
+      "chemistry": 65
+    }
+  },
+  "87728": {
+    "name": "Cassidy Nolan",
+    "scores": {
+      "math": 63,
+      "physics": 96,
+      "chemistry": 72
+    }
+  },
+  "46987": {
+    "name": "Amanda Cherry",
+    "scores": {
+      "math": 81,
+      "physics": 66,
+      "chemistry": 70
+    }
+  },
+  "24972": {
+    "name": "Michael Pollard",
+    "scores": {
+      "math": 96,
+      "physics": 74,
+      "chemistry": 93
+    }
+  },
+  "54935": {
+    "name": "Sarah Hubbard",
+    "scores": {
+      "math": 58,
+      "physics": 52,
+      "chemistry": 63
+    }
+  },
+  "45552": {
+    "name": "Christopher Mosley",
+    "scores": {
+      "math": 72,
+      "physics": 67,
+      "chemistry": 98
+    }
+  },
+  "15670": {
+    "name": "Michael Harris",
+    "scores": {
+      "math": 90,
+      "physics": 54,
+      "chemistry": 85
+    }
+  },
+  "35457": {
+    "name": "Glenn Torres",
+    "scores": {
+      "math": 57,
+      "physics": 84,
+      "chemistry": 53
+    }
+  },
+  "29639": {
+    "name": "Nathan Young",
+    "scores": {
+      "math": 95,
+      "physics": 56,
+      "chemistry": 52
+    }
+  },
+  "73956": {
+    "name": "Jasmine Dennis",
+    "scores": {
+      "math": 95,
+      "physics": 66,
+      "chemistry": 55
+    }
+  },
+  "84323": {
+    "name": "Brian Walton",
+    "scores": {
+      "math": 77,
+      "physics": 93,
+      "chemistry": 88
+    }
+  },
+  "46207": {
+    "name": "Elizabeth Anderson",
+    "scores": {
+      "math": 75,
+      "physics": 82,
+      "chemistry": 52
+    }
+  },
+  "44593": {
+    "name": "Scott Floyd",
+    "scores": {
+      "math": 61,
+      "physics": 54,
+      "chemistry": 65
+    }
+  },
+  "62259": {
+    "name": "Thomas Davis",
+    "scores": {
+      "math": 67,
+      "physics": 74,
+      "chemistry": 61
+    }
+  },
+  "17885": {
+    "name": "Taylor Salas",
+    "scores": {
+      "math": 67,
+      "physics": 67,
+      "chemistry": 66
+    }
+  },
+  "52751": {
+    "name": "Valerie Wilcox",
+    "scores": {
+      "math": 91,
+      "physics": 66,
+      "chemistry": 85
+    }
+  },
+  "76522": {
+    "name": "Neil Ramos",
+    "scores": {
+      "math": 61,
+      "physics": 79,
+      "chemistry": 54
+    }
+  },
+  "63855": {
+    "name": "Breanna Wood",
+    "scores": {
+      "math": 97,
+      "physics": 64,
+      "chemistry": 87
+    }
+  },
+  "31033": {
+    "name": "Michael Thomas",
+    "scores": {
+      "math": 78,
+      "physics": 74,
+      "chemistry": 84
+    }
+  },
+  "79936": {
+    "name": "Patrick Carter",
+    "scores": {
+      "math": 66,
+      "physics": 55,
+      "chemistry": 63
+    }
+  },
+  "39467": {
+    "name": "Nathan Daniels",
+    "scores": {
+      "math": 95,
+      "physics": 71,
+      "chemistry": 51
+    }
+  },
+  "46044": {
+    "name": "Deborah Freeman",
+    "scores": {
+      "math": 64,
+      "physics": 100,
+      "chemistry": 50
+    }
+  },
+  "88195": {
+    "name": "Edward Haynes",
+    "scores": {
+      "math": 55,
+      "physics": 64,
+      "chemistry": 70
+    }
+  },
+  "44261": {
+    "name": "Richard Navarro",
+    "scores": {
+      "math": 88,
+      "physics": 63,
+      "chemistry": 100
+    }
+  },
+  "56915": {
+    "name": "Erica Barrett",
+    "scores": {
+      "math": 95,
+      "physics": 67,
+      "chemistry": 69
+    }
+  },
+  "80101": {
+    "name": "Mitchell Le",
+    "scores": {
+      "math": 50,
+      "physics": 71,
+      "chemistry": 98
+    }
+  },
+  "55310": {
+    "name": "Kathleen Sanchez",
+    "scores": {
+      "math": 65,
+      "physics": 69,
+      "chemistry": 65
+    }
+  },
+  "72653": {
+    "name": "John Ramirez",
+    "scores": {
+      "math": 82,
+      "physics": 86,
+      "chemistry": 92
+    }
+  },
+  "84760": {
+    "name": "Joshua Duran",
+    "scores": {
+      "math": 82,
+      "physics": 90,
+      "chemistry": 89
+    }
+  },
+  "88921": {
+    "name": "Mark Clark",
+    "scores": {
+      "math": 93,
+      "physics": 51,
+      "chemistry": 55
+    }
+  },
+  "17216": {
+    "name": "Aimee Petty",
+    "scores": {
+      "math": 88,
+      "physics": 58,
+      "chemistry": 63
+    }
+  },
+  "57269": {
+    "name": "Amber Kennedy",
+    "scores": {
+      "math": 82,
+      "physics": 71,
+      "chemistry": 80
+    }
+  },
+  "20740": {
+    "name": "Mr. Juan Armstrong",
+    "scores": {
+      "math": 79,
+      "physics": 54,
+      "chemistry": 72
+    }
+  },
+  "46237": {
+    "name": "Phillip Daniel",
+    "scores": {
+      "math": 94,
+      "physics": 98,
+      "chemistry": 88
+    }
+  },
+  "81689": {
+    "name": "Charles Landry",
+    "scores": {
+      "math": 79,
+      "physics": 87,
+      "chemistry": 89
+    }
+  },
+  "86186": {
+    "name": "Jeremy Perez",
+    "scores": {
+      "math": 95,
+      "physics": 62,
+      "chemistry": 57
+    }
+  },
+  "11015": {
+    "name": "Christina Hernandez",
+    "scores": {
+      "math": 75,
+      "physics": 72,
+      "chemistry": 80
+    }
+  },
+  "79105": {
+    "name": "Samuel Dunn",
+    "scores": {
+      "math": 69,
+      "physics": 71,
+      "chemistry": 100
+    }
+  },
+  "64760": {
+    "name": "Brandy Lambert",
+    "scores": {
+      "math": 98,
+      "physics": 74,
+      "chemistry": 53
+    }
+  },
+  "36562": {
+    "name": "Sean Frazier",
+    "scores": {
+      "math": 62,
+      "physics": 93,
+      "chemistry": 75
+    }
+  },
+  "44010": {
+    "name": "Angela Barnes",
+    "scores": {
+      "math": 69,
+      "physics": 75,
+      "chemistry": 77
+    }
+  },
+  "35748": {
+    "name": "Benjamin Pennington",
+    "scores": {
+      "math": 58,
+      "physics": 100,
+      "chemistry": 92
+    }
+  },
+  "37700": {
+    "name": "Kaitlyn Stewart",
+    "scores": {
+      "math": 89,
+      "physics": 81,
+      "chemistry": 78
+    }
+  },
+  "67675": {
+    "name": "Patrick Silva",
+    "scores": {
+      "math": 53,
+      "physics": 64,
+      "chemistry": 52
+    }
+  },
+  "70670": {
+    "name": "Clinton Murray",
+    "scores": {
+      "math": 75,
+      "physics": 76,
+      "chemistry": 70
+    }
+  },
+  "73404": {
+    "name": "Clinton Davis",
+    "scores": {
+      "math": 59,
+      "physics": 85,
+      "chemistry": 77
+    }
+  },
+  "33434": {
+    "name": "William Sanchez Jr.",
+    "scores": {
+      "math": 80,
+      "physics": 99,
+      "chemistry": 92
+    }
+  },
+  "36260": {
+    "name": "Michael Peterson",
+    "scores": {
+      "math": 63,
+      "physics": 93,
+      "chemistry": 81
+    }
+  },
+  "37801": {
+    "name": "Seth Everett",
+    "scores": {
+      "math": 50,
+      "physics": 73,
+      "chemistry": 55
+    }
+  },
+  "38628": {
+    "name": "Stephanie Arroyo",
+    "scores": {
+      "math": 77,
+      "physics": 65,
+      "chemistry": 58
+    }
+  },
+  "95296": {
+    "name": "Christian Gomez",
+    "scores": {
+      "math": 70,
+      "physics": 63,
+      "chemistry": 91
+    }
+  },
+  "11529": {
+    "name": "Amy Merritt",
+    "scores": {
+      "math": 96,
+      "physics": 92,
+      "chemistry": 88
+    }
+  },
+  "17044": {
+    "name": "Jared Orozco",
+    "scores": {
+      "math": 50,
+      "physics": 61,
+      "chemistry": 92
+    }
+  },
+  "97757": {
+    "name": "Jennifer Hawkins",
+    "scores": {
+      "math": 68,
+      "physics": 82,
+      "chemistry": 72
+    }
+  },
+  "49118": {
+    "name": "John Green",
+    "scores": {
+      "math": 77,
+      "physics": 84,
+      "chemistry": 51
+    }
+  },
+  "55859": {
+    "name": "Destiny Williams",
+    "scores": {
+      "math": 64,
+      "physics": 64,
+      "chemistry": 68
+    }
+  },
+  "89751": {
+    "name": "Christopher Rodriguez",
+    "scores": {
+      "math": 93,
+      "physics": 84,
+      "chemistry": 56
+    }
+  },
+  "77106": {
+    "name": "Morgan Morgan PhD",
+    "scores": {
+      "math": 89,
+      "physics": 95,
+      "chemistry": 56
+    }
+  },
+  "60243": {
+    "name": "Bailey Crawford",
+    "scores": {
+      "math": 61,
+      "physics": 69,
+      "chemistry": 85
+    }
+  },
+  "56458": {
+    "name": "Katherine Mueller",
+    "scores": {
+      "math": 78,
+      "physics": 85,
+      "chemistry": 52
+    }
+  },
+  "13473": {
+    "name": "Miss Kelly Powell",
+    "scores": {
+      "math": 53,
+      "physics": 78,
+      "chemistry": 60
+    }
+  },
+  "79776": {
+    "name": "Jerry Day",
+    "scores": {
+      "math": 60,
+      "physics": 98,
+      "chemistry": 95
+    }
+  },
+  "56021": {
+    "name": "Benjamin Dixon",
+    "scores": {
+      "math": 100,
+      "physics": 70,
+      "chemistry": 89
+    }
+  },
+  "71567": {
+    "name": "Danielle Anderson",
+    "scores": {
+      "math": 81,
+      "physics": 81,
+      "chemistry": 63
+    }
+  },
+  "71435": {
+    "name": "Kimberly Medina",
+    "scores": {
+      "math": 63,
+      "physics": 67,
+      "chemistry": 54
+    }
+  },
+  "45649": {
+    "name": "Cody Fields",
+    "scores": {
+      "math": 95,
+      "physics": 74,
+      "chemistry": 89
+    }
+  },
+  "84411": {
+    "name": "Carmen Carlson",
+    "scores": {
+      "math": 63,
+      "physics": 80,
+      "chemistry": 60
+    }
+  },
+  "72756": {
+    "name": "Michael Lang",
+    "scores": {
+      "math": 64,
+      "physics": 81,
+      "chemistry": 55
+    }
+  },
+  "42979": {
+    "name": "Nicholas Joseph",
+    "scores": {
+      "math": 86,
+      "physics": 75,
+      "chemistry": 73
+    }
+  },
+  "60825": {
+    "name": "Rebecca Arnold",
+    "scores": {
+      "math": 98,
+      "physics": 89,
+      "chemistry": 73
+    }
+  },
+  "67928": {
+    "name": "Ashley Reid",
+    "scores": {
+      "math": 90,
+      "physics": 67,
+      "chemistry": 99
+    }
+  },
+  "28248": {
+    "name": "Philip Hebert",
+    "scores": {
+      "math": 90,
+      "physics": 64,
+      "chemistry": 85
+    }
+  },
+  "35608": {
+    "name": "Sheila Taylor",
+    "scores": {
+      "math": 71,
+      "physics": 58,
+      "chemistry": 74
+    }
+  },
+  "25539": {
+    "name": "Michael Doyle",
+    "scores": {
+      "math": 61,
+      "physics": 55,
+      "chemistry": 76
+    }
+  },
+  "47871": {
+    "name": "Andrea Miranda",
+    "scores": {
+      "math": 67,
+      "physics": 55,
+      "chemistry": 61
+    }
+  },
+  "58836": {
+    "name": "Destiny Roberts",
+    "scores": {
+      "math": 65,
+      "physics": 50,
+      "chemistry": 83
+    }
+  },
+  "21308": {
+    "name": "Penny Brown",
+    "scores": {
+      "math": 75,
+      "physics": 54,
+      "chemistry": 57
+    }
+  },
+  "88763": {
+    "name": "Colleen Reid",
+    "scores": {
+      "math": 70,
+      "physics": 51,
+      "chemistry": 68
+    }
+  },
+  "58722": {
+    "name": "Regina Randall",
+    "scores": {
+      "math": 94,
+      "physics": 93,
+      "chemistry": 97
+    }
+  },
+  "84471": {
+    "name": "Robert Mitchell",
+    "scores": {
+      "math": 52,
+      "physics": 76,
+      "chemistry": 64
+    }
+  },
+  "47646": {
+    "name": "Amanda Benson",
+    "scores": {
+      "math": 62,
+      "physics": 88,
+      "chemistry": 60
+    }
+  },
+  "86054": {
+    "name": "Lindsey Murillo",
+    "scores": {
+      "math": 61,
+      "physics": 76,
+      "chemistry": 63
+    }
+  },
+  "76506": {
+    "name": "Kyle Maddox",
+    "scores": {
+      "math": 62,
+      "physics": 70,
+      "chemistry": 82
+    }
+  },
+  "54550": {
+    "name": "Amber Smith",
+    "scores": {
+      "math": 98,
+      "physics": 51,
+      "chemistry": 97
+    }
+  },
+  "57017": {
+    "name": "Amy Smith",
+    "scores": {
+      "math": 79,
+      "physics": 77,
+      "chemistry": 58
+    }
+  },
+  "46170": {
+    "name": "Jerry Ward",
+    "scores": {
+      "math": 72,
+      "physics": 87,
+      "chemistry": 56
+    }
+  },
+  "54178": {
+    "name": "Stanley Holland",
+    "scores": {
+      "math": 55,
+      "physics": 74,
+      "chemistry": 50
+    }
+  },
+  "45347": {
+    "name": "Scott Hamilton",
+    "scores": {
+      "math": 77,
+      "physics": 62,
+      "chemistry": 58
+    }
+  },
+  "54599": {
+    "name": "Sandra Ryan",
+    "scores": {
+      "math": 87,
+      "physics": 88,
+      "chemistry": 57
+    }
+  },
+  "55638": {
+    "name": "Amanda Frederick",
+    "scores": {
+      "math": 78,
+      "physics": 75,
+      "chemistry": 57
+    }
+  },
+  "40364": {
+    "name": "Anna Morgan",
+    "scores": {
+      "math": 76,
+      "physics": 63,
+      "chemistry": 98
+    }
+  },
+  "70539": {
+    "name": "Albert Smith",
+    "scores": {
+      "math": 52,
+      "physics": 92,
+      "chemistry": 59
+    }
+  },
+  "53412": {
+    "name": "Lori Carpenter",
+    "scores": {
+      "math": 82,
+      "physics": 51,
+      "chemistry": 92
+    }
+  },
+  "85407": {
+    "name": "Nicole Martinez",
+    "scores": {
+      "math": 79,
+      "physics": 81,
+      "chemistry": 60
+    }
+  },
+  "77842": {
+    "name": "Jose Price",
+    "scores": {
+      "math": 83,
+      "physics": 72,
+      "chemistry": 95
+    }
+  },
+  "38942": {
+    "name": "Andrew Johnson",
+    "scores": {
+      "math": 53,
+      "physics": 95,
+      "chemistry": 87
+    }
+  },
+  "38500": {
+    "name": "Jonathan George",
+    "scores": {
+      "math": 89,
+      "physics": 93,
+      "chemistry": 63
+    }
+  },
+  "47780": {
+    "name": "Jose Stevens",
+    "scores": {
+      "math": 85,
+      "physics": 93,
+      "chemistry": 94
+    }
+  },
+  "37970": {
+    "name": "Nicholas Diaz",
+    "scores": {
+      "math": 93,
+      "physics": 54,
+      "chemistry": 65
+    }
+  },
+  "62343": {
+    "name": "William Garrett",
+    "scores": {
+      "math": 57,
+      "physics": 99,
+      "chemistry": 97
+    }
+  },
+  "50737": {
+    "name": "Austin Rodriguez",
+    "scores": {
+      "math": 70,
+      "physics": 56,
+      "chemistry": 76
+    }
+  },
+  "77754": {
+    "name": "Miss Dawn Golden",
+    "scores": {
+      "math": 60,
+      "physics": 90,
+      "chemistry": 95
+    }
+  },
+  "70091": {
+    "name": "Beth Hess",
+    "scores": {
+      "math": 85,
+      "physics": 74,
+      "chemistry": 72
+    }
+  },
+  "93716": {
+    "name": "Richard Macdonald",
+    "scores": {
+      "math": 70,
+      "physics": 90,
+      "chemistry": 81
+    }
+  },
+  "12804": {
+    "name": "Kathryn Moore",
+    "scores": {
+      "math": 56,
+      "physics": 89,
+      "chemistry": 95
+    }
+  },
+  "44735": {
+    "name": "Erin Morrison",
+    "scores": {
+      "math": 72,
+      "physics": 95,
+      "chemistry": 67
+    }
+  },
+  "38652": {
+    "name": "Emily Kelley DDS",
+    "scores": {
+      "math": 64,
+      "physics": 64,
+      "chemistry": 100
+    }
+  },
+  "34333": {
+    "name": "Marc Lowery",
+    "scores": {
+      "math": 52,
+      "physics": 82,
+      "chemistry": 66
+    }
+  },
+  "72427": {
+    "name": "Jason Parker",
+    "scores": {
+      "math": 54,
+      "physics": 99,
+      "chemistry": 94
+    }
+  },
+  "36305": {
+    "name": "Darius Cordova",
+    "scores": {
+      "math": 84,
+      "physics": 81,
+      "chemistry": 82
+    }
+  },
+  "15260": {
+    "name": "Frank Crosby",
+    "scores": {
+      "math": 54,
+      "physics": 93,
+      "chemistry": 87
+    }
+  },
+  "48126": {
+    "name": "Hector Lopez",
+    "scores": {
+      "math": 80,
+      "physics": 62,
+      "chemistry": 74
+    }
+  },
+  "59920": {
+    "name": "Joyce Holt",
+    "scores": {
+      "math": 50,
+      "physics": 69,
+      "chemistry": 77
+    }
+  },
+  "91759": {
+    "name": "Carolyn Mclean",
+    "scores": {
+      "math": 73,
+      "physics": 70,
+      "chemistry": 67
+    }
+  },
+  "44084": {
+    "name": "Tracy Oneill",
+    "scores": {
+      "math": 54,
+      "physics": 58,
+      "chemistry": 57
+    }
+  },
+  "55064": {
+    "name": "Austin Lynch",
+    "scores": {
+      "math": 76,
+      "physics": 65,
+      "chemistry": 87
+    }
+  },
+  "98439": {
+    "name": "Brandy Johnson",
+    "scores": {
+      "math": 70,
+      "physics": 68,
+      "chemistry": 80
+    }
+  },
+  "61273": {
+    "name": "Justin Smith",
+    "scores": {
+      "math": 70,
+      "physics": 99,
+      "chemistry": 69
+    }
+  },
+  "94774": {
+    "name": "Samantha Cook",
+    "scores": {
+      "math": 100,
+      "physics": 51,
+      "chemistry": 85
+    }
+  },
+  "99149": {
+    "name": "Mrs. Brittany Harrington",
+    "scores": {
+      "math": 55,
+      "physics": 82,
+      "chemistry": 66
+    }
+  },
+  "60052": {
+    "name": "James Cardenas",
+    "scores": {
+      "math": 59,
+      "physics": 72,
+      "chemistry": 77
+    }
+  },
+  "64415": {
+    "name": "April Castro",
+    "scores": {
+      "math": 61,
+      "physics": 59,
+      "chemistry": 80
+    }
+  },
+  "36453": {
+    "name": "Timothy Leblanc",
+    "scores": {
+      "math": 58,
+      "physics": 96,
+      "chemistry": 54
+    }
+  },
+  "82775": {
+    "name": "Brian Russell",
+    "scores": {
+      "math": 87,
+      "physics": 69,
+      "chemistry": 75
+    }
+  },
+  "21999": {
+    "name": "Jeffery Warren",
+    "scores": {
+      "math": 98,
+      "physics": 82,
+      "chemistry": 75
+    }
+  },
+  "89947": {
+    "name": "Sandra Foster",
+    "scores": {
+      "math": 55,
+      "physics": 81,
+      "chemistry": 70
+    }
+  },
+  "51900": {
+    "name": "Katelyn Martinez",
+    "scores": {
+      "math": 66,
+      "physics": 85,
+      "chemistry": 74
+    }
+  },
+  "21462": {
+    "name": "Eric Daniel",
+    "scores": {
+      "math": 74,
+      "physics": 94,
+      "chemistry": 52
+    }
+  },
+  "58060": {
+    "name": "April Holt",
+    "scores": {
+      "math": 62,
+      "physics": 89,
+      "chemistry": 84
+    }
+  },
+  "11153": {
+    "name": "Mr. James Rodriguez",
+    "scores": {
+      "math": 73,
+      "physics": 69,
+      "chemistry": 53
+    }
+  },
+  "47778": {
+    "name": "Zachary Jones",
+    "scores": {
+      "math": 50,
+      "physics": 54,
+      "chemistry": 59
+    }
+  },
+  "86574": {
+    "name": "Margaret Anderson",
+    "scores": {
+      "math": 94,
+      "physics": 81,
+      "chemistry": 78
+    }
+  },
+  "58056": {
+    "name": "Dustin Vargas",
+    "scores": {
+      "math": 78,
+      "physics": 54,
+      "chemistry": 93
+    }
+  },
+  "96035": {
+    "name": "Natasha Haynes",
+    "scores": {
+      "math": 72,
+      "physics": 94,
+      "chemistry": 60
+    }
+  },
+  "41055": {
+    "name": "Andrew Roberts",
+    "scores": {
+      "math": 75,
+      "physics": 85,
+      "chemistry": 90
+    }
+  },
+  "87790": {
+    "name": "Michelle Griffin",
+    "scores": {
+      "math": 99,
+      "physics": 61,
+      "chemistry": 89
+    }
+  },
+  "61261": {
+    "name": "Samantha Price",
+    "scores": {
+      "math": 97,
+      "physics": 57,
+      "chemistry": 60
+    }
+  },
+  "31489": {
+    "name": "Emily Velez",
+    "scores": {
+      "math": 62,
+      "physics": 52,
+      "chemistry": 64
+    }
+  },
+  "84341": {
+    "name": "William Dougherty",
+    "scores": {
+      "math": 76,
+      "physics": 83,
+      "chemistry": 67
+    }
+  },
+  "36860": {
+    "name": "Andrew Perkins",
+    "scores": {
+      "math": 52,
+      "physics": 84,
+      "chemistry": 99
+    }
+  },
+  "69521": {
+    "name": "Margaret Young",
+    "scores": {
+      "math": 92,
+      "physics": 57,
+      "chemistry": 50
+    }
+  },
+  "71296": {
+    "name": "Cynthia Cox DDS",
+    "scores": {
+      "math": 92,
+      "physics": 56,
+      "chemistry": 81
+    }
+  },
+  "85186": {
+    "name": "Amanda Fisher MD",
+    "scores": {
+      "math": 88,
+      "physics": 69,
+      "chemistry": 64
+    }
+  },
+  "45903": {
+    "name": "Richard Guerra",
+    "scores": {
+      "math": 57,
+      "physics": 93,
+      "chemistry": 71
+    }
+  },
+  "13439": {
+    "name": "Arthur Obrien",
+    "scores": {
+      "math": 53,
+      "physics": 89,
+      "chemistry": 87
+    }
+  },
+  "42795": {
+    "name": "Brett Hill",
+    "scores": {
+      "math": 100,
+      "physics": 71,
+      "chemistry": 94
+    }
+  },
+  "38972": {
+    "name": "Jonathan Taylor",
+    "scores": {
+      "math": 87,
+      "physics": 62,
+      "chemistry": 83
+    }
+  },
+  "38897": {
+    "name": "Ebony Lester",
+    "scores": {
+      "math": 53,
+      "physics": 59,
+      "chemistry": 91
+    }
+  },
+  "14495": {
+    "name": "Jeremy James",
+    "scores": {
+      "math": 93,
+      "physics": 95,
+      "chemistry": 63
+    }
+  },
+  "79267": {
+    "name": "Michael Thompson",
+    "scores": {
+      "math": 70,
+      "physics": 65,
+      "chemistry": 93
+    }
+  },
+  "34820": {
+    "name": "Ashley Martin",
+    "scores": {
+      "math": 71,
+      "physics": 77,
+      "chemistry": 86
+    }
+  },
+  "37808": {
+    "name": "Paula Hall",
+    "scores": {
+      "math": 78,
+      "physics": 84,
+      "chemistry": 78
+    }
+  },
+  "24929": {
+    "name": "Jody Moses",
+    "scores": {
+      "math": 56,
+      "physics": 78,
+      "chemistry": 61
+    }
+  },
+  "57335": {
+    "name": "Matthew Adams",
+    "scores": {
+      "math": 79,
+      "physics": 90,
+      "chemistry": 95
+    }
+  },
+  "97948": {
+    "name": "Heather Lewis",
+    "scores": {
+      "math": 67,
+      "physics": 62,
+      "chemistry": 56
+    }
+  },
+  "93011": {
+    "name": "John Chen",
+    "scores": {
+      "math": 99,
+      "physics": 79,
+      "chemistry": 71
+    }
+  },
+  "94779": {
+    "name": "Debra Burnett",
+    "scores": {
+      "math": 98,
+      "physics": 88,
+      "chemistry": 95
+    }
+  },
+  "18321": {
+    "name": "Amy Green",
+    "scores": {
+      "math": 94,
+      "physics": 68,
+      "chemistry": 74
+    }
+  },
+  "79177": {
+    "name": "Michael Lucas",
+    "scores": {
+      "math": 96,
+      "physics": 70,
+      "chemistry": 65
+    }
+  },
+  "33462": {
+    "name": "Brandy Jones",
+    "scores": {
+      "math": 50,
+      "physics": 85,
+      "chemistry": 59
+    }
+  },
+  "36939": {
+    "name": "Erica Ryan",
+    "scores": {
+      "math": 77,
+      "physics": 50,
+      "chemistry": 56
+    }
+  },
+  "52731": {
+    "name": "Timothy Estrada",
+    "scores": {
+      "math": 66,
+      "physics": 71,
+      "chemistry": 61
+    }
+  },
+  "20891": {
+    "name": "Christopher Scott",
+    "scores": {
+      "math": 52,
+      "physics": 86,
+      "chemistry": 95
+    }
+  },
+  "68307": {
+    "name": "Nicholas Todd",
+    "scores": {
+      "math": 96,
+      "physics": 62,
+      "chemistry": 57
+    }
+  },
+  "57580": {
+    "name": "Claire Wise",
+    "scores": {
+      "math": 56,
+      "physics": 78,
+      "chemistry": 68
+    }
+  },
+  "96551": {
+    "name": "Sara Murphy",
+    "scores": {
+      "math": 98,
+      "physics": 89,
+      "chemistry": 93
+    }
+  },
+  "13317": {
+    "name": "Leslie Sullivan",
+    "scores": {
+      "math": 79,
+      "physics": 75,
+      "chemistry": 78
+    }
+  },
+  "98849": {
+    "name": "Andrea Mckinney",
+    "scores": {
+      "math": 78,
+      "physics": 80,
+      "chemistry": 88
+    }
+  },
+  "57754": {
+    "name": "Stephanie Arnold",
+    "scores": {
+      "math": 69,
+      "physics": 83,
+      "chemistry": 89
+    }
+  },
+  "76538": {
+    "name": "Christopher Mullins",
+    "scores": {
+      "math": 82,
+      "physics": 58,
+      "chemistry": 85
+    }
+  },
+  "73327": {
+    "name": "Kimberly Oneill",
+    "scores": {
+      "math": 97,
+      "physics": 63,
+      "chemistry": 66
+    }
+  },
+  "66204": {
+    "name": "Mr. Alexander Williams",
+    "scores": {
+      "math": 60,
+      "physics": 82,
+      "chemistry": 80
+    }
+  },
+  "54818": {
+    "name": "Allison Mathis",
+    "scores": {
+      "math": 81,
+      "physics": 80,
+      "chemistry": 93
+    }
+  },
+  "96958": {
+    "name": "Steven Stevens",
+    "scores": {
+      "math": 90,
+      "physics": 74,
+      "chemistry": 89
+    }
+  },
+  "70700": {
+    "name": "Austin Weber",
+    "scores": {
+      "math": 84,
+      "physics": 57,
+      "chemistry": 79
+    }
+  },
+  "14842": {
+    "name": "Ralph Sullivan",
+    "scores": {
+      "math": 100,
+      "physics": 62,
+      "chemistry": 97
+    }
+  },
+  "71645": {
+    "name": "Kimberly Larson",
+    "scores": {
+      "math": 96,
+      "physics": 77,
+      "chemistry": 67
+    }
+  },
+  "46184": {
+    "name": "Aaron Hernandez",
+    "scores": {
+      "math": 59,
+      "physics": 96,
+      "chemistry": 86
+    }
+  },
+  "98080": {
+    "name": "Darrell Goodwin",
+    "scores": {
+      "math": 88,
+      "physics": 77,
+      "chemistry": 61
+    }
+  },
+  "80800": {
+    "name": "Andrew Costa",
+    "scores": {
+      "math": 74,
+      "physics": 70,
+      "chemistry": 90
+    }
+  },
+  "26915": {
+    "name": "Abigail Hernandez",
+    "scores": {
+      "math": 60,
+      "physics": 88,
+      "chemistry": 68
+    }
+  },
+  "74027": {
+    "name": "Keith Dunn",
+    "scores": {
+      "math": 70,
+      "physics": 97,
+      "chemistry": 74
+    }
+  },
+  "15168": {
+    "name": "Aaron Bailey",
+    "scores": {
+      "math": 75,
+      "physics": 74,
+      "chemistry": 100
+    }
+  },
+  "55450": {
+    "name": "Emily Grant",
+    "scores": {
+      "math": 89,
+      "physics": 75,
+      "chemistry": 57
+    }
+  },
+  "65120": {
+    "name": "Devin Garrett",
+    "scores": {
+      "math": 78,
+      "physics": 99,
+      "chemistry": 98
+    }
+  },
+  "65215": {
+    "name": "Laurie Hall",
+    "scores": {
+      "math": 56,
+      "physics": 67,
+      "chemistry": 83
+    }
+  },
+  "65214": {
+    "name": "William Lawson",
+    "scores": {
+      "math": 65,
+      "physics": 100,
+      "chemistry": 58
+    }
+  },
+  "87740": {
+    "name": "Victoria Montgomery",
+    "scores": {
+      "math": 71,
+      "physics": 53,
+      "chemistry": 68
+    }
+  },
+  "87990": {
+    "name": "Katherine Mitchell",
+    "scores": {
+      "math": 51,
+      "physics": 82,
+      "chemistry": 85
+    }
+  },
+  "24863": {
+    "name": "Kristen Stephens",
+    "scores": {
+      "math": 76,
+      "physics": 84,
+      "chemistry": 65
+    }
+  },
+  "71718": {
+    "name": "Benjamin Martin",
+    "scores": {
+      "math": 57,
+      "physics": 72,
+      "chemistry": 54
+    }
+  },
+  "34939": {
+    "name": "Diana Buchanan",
+    "scores": {
+      "math": 85,
+      "physics": 87,
+      "chemistry": 71
+    }
+  },
+  "79916": {
+    "name": "Michael Hurst",
+    "scores": {
+      "math": 89,
+      "physics": 87,
+      "chemistry": 70
+    }
+  },
+  "80897": {
+    "name": "Peter Henderson",
+    "scores": {
+      "math": 85,
+      "physics": 69,
+      "chemistry": 54
+    }
+  },
+  "99937": {
+    "name": "Kim Hall",
+    "scores": {
+      "math": 75,
+      "physics": 83,
+      "chemistry": 65
+    }
+  },
+  "47750": {
+    "name": "Veronica Carter",
+    "scores": {
+      "math": 75,
+      "physics": 78,
+      "chemistry": 93
+    }
+  },
+  "74579": {
+    "name": "Scott Rowe DDS",
+    "scores": {
+      "math": 89,
+      "physics": 54,
+      "chemistry": 79
+    }
+  },
+  "42333": {
+    "name": "Lori Silva",
+    "scores": {
+      "math": 88,
+      "physics": 57,
+      "chemistry": 61
+    }
+  },
+  "38801": {
+    "name": "Michael Moore",
+    "scores": {
+      "math": 86,
+      "physics": 67,
+      "chemistry": 86
+    }
+  },
+  "24121": {
+    "name": "Elizabeth Paul",
+    "scores": {
+      "math": 92,
+      "physics": 85,
+      "chemistry": 82
+    }
+  },
+  "44037": {
+    "name": "Kelly Ramsey",
+    "scores": {
+      "math": 60,
+      "physics": 65,
+      "chemistry": 83
+    }
+  },
+  "64724": {
+    "name": "Sarah Rogers",
+    "scores": {
+      "math": 82,
+      "physics": 56,
+      "chemistry": 65
+    }
+  },
+  "26388": {
+    "name": "Kyle Moore",
+    "scores": {
+      "math": 90,
+      "physics": 79,
+      "chemistry": 61
+    }
+  },
+  "68256": {
+    "name": "Michael Owen",
+    "scores": {
+      "math": 66,
+      "physics": 96,
+      "chemistry": 69
+    }
+  },
+  "98170": {
+    "name": "Kenneth Blanchard",
+    "scores": {
+      "math": 84,
+      "physics": 81,
+      "chemistry": 52
+    }
+  },
+  "45539": {
+    "name": "Theresa Martinez",
+    "scores": {
+      "math": 88,
+      "physics": 71,
+      "chemistry": 64
+    }
+  },
+  "91894": {
+    "name": "Vanessa Wang",
+    "scores": {
+      "math": 52,
+      "physics": 95,
+      "chemistry": 61
+    }
+  },
+  "90583": {
+    "name": "Matthew Schmidt",
+    "scores": {
+      "math": 73,
+      "physics": 50,
+      "chemistry": 62
+    }
+  },
+  "84389": {
+    "name": "Tyler Barnett",
+    "scores": {
+      "math": 52,
+      "physics": 56,
+      "chemistry": 82
+    }
+  },
+  "71629": {
+    "name": "Jamie Williams",
+    "scores": {
+      "math": 55,
+      "physics": 61,
+      "chemistry": 100
+    }
+  },
+  "63284": {
+    "name": "Julia Jackson",
+    "scores": {
+      "math": 60,
+      "physics": 88,
+      "chemistry": 67
+    }
+  },
+  "26036": {
+    "name": "James Mendez",
+    "scores": {
+      "math": 52,
+      "physics": 53,
+      "chemistry": 72
+    }
+  },
+  "86493": {
+    "name": "Katherine Wise",
+    "scores": {
+      "math": 89,
+      "physics": 87,
+      "chemistry": 72
+    }
+  },
+  "57675": {
+    "name": "Nicole Lee",
+    "scores": {
+      "math": 99,
+      "physics": 50,
+      "chemistry": 99
+    }
+  },
+  "33298": {
+    "name": "Blake Walsh",
+    "scores": {
+      "math": 57,
+      "physics": 71,
+      "chemistry": 93
+    }
+  },
+  "21001": {
+    "name": "Karen Patel",
+    "scores": {
+      "math": 58,
+      "physics": 65,
+      "chemistry": 99
+    }
+  },
+  "50121": {
+    "name": "Sean Vega",
+    "scores": {
+      "math": 52,
+      "physics": 79,
+      "chemistry": 75
+    }
+  },
+  "47577": {
+    "name": "Christopher Romero",
+    "scores": {
+      "math": 67,
+      "physics": 97,
+      "chemistry": 95
+    }
+  },
+  "77885": {
+    "name": "Christina Bright",
+    "scores": {
+      "math": 72,
+      "physics": 70,
+      "chemistry": 98
+    }
+  },
+  "97845": {
+    "name": "Eric House",
+    "scores": {
+      "math": 62,
+      "physics": 67,
+      "chemistry": 68
+    }
+  },
+  "51483": {
+    "name": "David Savage",
+    "scores": {
+      "math": 93,
+      "physics": 75,
+      "chemistry": 53
+    }
+  },
+  "89382": {
+    "name": "Patricia Foster",
+    "scores": {
+      "math": 58,
+      "physics": 53,
+      "chemistry": 58
+    }
+  },
+  "10177": {
+    "name": "Dale Orr",
+    "scores": {
+      "math": 78,
+      "physics": 91,
+      "chemistry": 78
+    }
+  },
+  "24878": {
+    "name": "Heather Cook",
+    "scores": {
+      "math": 88,
+      "physics": 89,
+      "chemistry": 80
+    }
+  },
+  "70828": {
+    "name": "Daniel Griffin",
+    "scores": {
+      "math": 70,
+      "physics": 73,
+      "chemistry": 84
+    }
+  },
+  "54013": {
+    "name": "Justin Alvarez",
+    "scores": {
+      "math": 77,
+      "physics": 86,
+      "chemistry": 53
+    }
+  },
+  "53617": {
+    "name": "Catherine Daniels",
+    "scores": {
+      "math": 54,
+      "physics": 59,
+      "chemistry": 52
+    }
+  },
+  "84679": {
+    "name": "Kimberly Forbes DDS",
+    "scores": {
+      "math": 97,
+      "physics": 96,
+      "chemistry": 52
+    }
+  },
+  "50220": {
+    "name": "Taylor Hancock",
+    "scores": {
+      "math": 79,
+      "physics": 97,
+      "chemistry": 90
+    }
+  },
+  "37782": {
+    "name": "Patricia Choi DDS",
+    "scores": {
+      "math": 60,
+      "physics": 52,
+      "chemistry": 93
+    }
+  },
+  "15753": {
+    "name": "Danny Shaffer",
+    "scores": {
+      "math": 67,
+      "physics": 70,
+      "chemistry": 83
+    }
+  },
+  "47718": {
+    "name": "Danielle Howell",
+    "scores": {
+      "math": 64,
+      "physics": 99,
+      "chemistry": 72
+    }
+  },
+  "47412": {
+    "name": "Alexander Roberts",
+    "scores": {
+      "math": 83,
+      "physics": 71,
+      "chemistry": 57
+    }
+  },
+  "91471": {
+    "name": "Scott Payne",
+    "scores": {
+      "math": 76,
+      "physics": 88,
+      "chemistry": 82
+    }
+  },
+  "63840": {
+    "name": "Elizabeth Lane",
+    "scores": {
+      "math": 55,
+      "physics": 75,
+      "chemistry": 98
+    }
+  },
+  "18480": {
+    "name": "Kevin Hogan",
+    "scores": {
+      "math": 66,
+      "physics": 50,
+      "chemistry": 100
+    }
+  },
+  "78510": {
+    "name": "Gail Tate",
+    "scores": {
+      "math": 84,
+      "physics": 90,
+      "chemistry": 53
+    }
+  },
+  "59351": {
+    "name": "Lisa Torres",
+    "scores": {
+      "math": 87,
+      "physics": 88,
+      "chemistry": 53
+    }
+  },
+  "27629": {
+    "name": "Christopher Walker",
+    "scores": {
+      "math": 83,
+      "physics": 69,
+      "chemistry": 91
+    }
+  },
+  "71134": {
+    "name": "Keith Shelton",
+    "scores": {
+      "math": 77,
+      "physics": 91,
+      "chemistry": 63
+    }
+  },
+  "76443": {
+    "name": "Angela Fischer",
+    "scores": {
+      "math": 67,
+      "physics": 84,
+      "chemistry": 63
+    }
+  },
+  "81610": {
+    "name": "Cassandra Morales",
+    "scores": {
+      "math": 66,
+      "physics": 75,
+      "chemistry": 70
+    }
+  },
+  "56703": {
+    "name": "Eduardo Castro",
+    "scores": {
+      "math": 89,
+      "physics": 60,
+      "chemistry": 75
+    }
+  },
+  "42478": {
+    "name": "Jacqueline Wolfe",
+    "scores": {
+      "math": 79,
+      "physics": 60,
+      "chemistry": 87
+    }
+  },
+  "83115": {
+    "name": "Michael Harrington",
+    "scores": {
+      "math": 69,
+      "physics": 98,
+      "chemistry": 61
+    }
+  },
+  "24358": {
+    "name": "Marc Bradshaw",
+    "scores": {
+      "math": 60,
+      "physics": 80,
+      "chemistry": 87
+    }
+  },
+  "35649": {
+    "name": "Teresa Wright",
+    "scores": {
+      "math": 53,
+      "physics": 73,
+      "chemistry": 70
+    }
+  },
+  "48340": {
+    "name": "Tracy Baird",
+    "scores": {
+      "math": 90,
+      "physics": 92,
+      "chemistry": 79
+    }
+  },
+  "88716": {
+    "name": "Erica Thompson",
+    "scores": {
+      "math": 91,
+      "physics": 69,
+      "chemistry": 97
+    }
+  },
+  "31022": {
+    "name": "Maria Burch",
+    "scores": {
+      "math": 67,
+      "physics": 96,
+      "chemistry": 72
+    }
+  },
+  "76987": {
+    "name": "Brooke Paul",
+    "scores": {
+      "math": 53,
+      "physics": 96,
+      "chemistry": 65
+    }
+  },
+  "44899": {
+    "name": "Lisa Allen",
+    "scores": {
+      "math": 86,
+      "physics": 83,
+      "chemistry": 66
+    }
+  },
+  "76627": {
+    "name": "Michelle Cole",
+    "scores": {
+      "math": 83,
+      "physics": 86,
+      "chemistry": 97
+    }
+  },
+  "89785": {
+    "name": "Gwendolyn Dickerson",
+    "scores": {
+      "math": 100,
+      "physics": 58,
+      "chemistry": 90
+    }
+  },
+  "82029": {
+    "name": "Thomas Munoz",
+    "scores": {
+      "math": 57,
+      "physics": 95,
+      "chemistry": 95
+    }
+  },
+  "70908": {
+    "name": "Richard Prince",
+    "scores": {
+      "math": 84,
+      "physics": 58,
+      "chemistry": 56
+    }
+  },
+  "59728": {
+    "name": "Sharon Smith",
+    "scores": {
+      "math": 62,
+      "physics": 62,
+      "chemistry": 67
+    }
+  },
+  "67029": {
+    "name": "Samantha Brown",
+    "scores": {
+      "math": 70,
+      "physics": 53,
+      "chemistry": 87
+    }
+  },
+  "25593": {
+    "name": "Kim White",
+    "scores": {
+      "math": 72,
+      "physics": 64,
+      "chemistry": 79
+    }
+  },
+  "16030": {
+    "name": "Rachel Watkins",
+    "scores": {
+      "math": 59,
+      "physics": 94,
+      "chemistry": 58
+    }
+  },
+  "41139": {
+    "name": "Brian Guerrero",
+    "scores": {
+      "math": 92,
+      "physics": 82,
+      "chemistry": 81
+    }
+  },
+  "30801": {
+    "name": "Brandi Moreno",
+    "scores": {
+      "math": 70,
+      "physics": 81,
+      "chemistry": 90
+    }
+  },
+  "64994": {
+    "name": "Elizabeth Flynn",
+    "scores": {
+      "math": 83,
+      "physics": 95,
+      "chemistry": 82
+    }
+  },
+  "47241": {
+    "name": "Johnathan Wilson",
+    "scores": {
+      "math": 65,
+      "physics": 87,
+      "chemistry": 64
+    }
+  },
+  "69184": {
+    "name": "James Martinez",
+    "scores": {
+      "math": 75,
+      "physics": 85,
+      "chemistry": 83
+    }
+  },
+  "81820": {
+    "name": "Joseph Smith",
+    "scores": {
+      "math": 76,
+      "physics": 52,
+      "chemistry": 74
+    }
+  },
+  "14740": {
+    "name": "Leslie Stokes",
+    "scores": {
+      "math": 74,
+      "physics": 72,
+      "chemistry": 69
+    }
+  },
+  "82588": {
+    "name": "Angela Elliott",
+    "scores": {
+      "math": 82,
+      "physics": 55,
+      "chemistry": 97
+    }
+  },
+  "23955": {
+    "name": "Daniel Hale",
+    "scores": {
+      "math": 92,
+      "physics": 64,
+      "chemistry": 71
+    }
+  },
+  "72390": {
+    "name": "Gregory Lowe",
+    "scores": {
+      "math": 96,
+      "physics": 85,
+      "chemistry": 72
+    }
+  },
+  "96003": {
+    "name": "Donald Diaz",
+    "scores": {
+      "math": 91,
+      "physics": 83,
+      "chemistry": 87
+    }
+  },
+  "57002": {
+    "name": "Joy Bennett",
+    "scores": {
+      "math": 56,
+      "physics": 98,
+      "chemistry": 94
+    }
+  },
+  "66585": {
+    "name": "Anthony Martinez",
+    "scores": {
+      "math": 90,
+      "physics": 76,
+      "chemistry": 76
+    }
+  },
+  "27358": {
+    "name": "Mr. Joshua Allen MD",
+    "scores": {
+      "math": 86,
+      "physics": 100,
+      "chemistry": 76
+    }
+  },
+  "35715": {
+    "name": "Walter Fuller",
+    "scores": {
+      "math": 86,
+      "physics": 95,
+      "chemistry": 70
+    }
+  },
+  "47533": {
+    "name": "Erica Fleming",
+    "scores": {
+      "math": 84,
+      "physics": 88,
+      "chemistry": 73
+    }
+  },
+  "24729": {
+    "name": "Stephanie Mcguire",
+    "scores": {
+      "math": 64,
+      "physics": 89,
+      "chemistry": 92
+    }
+  },
+  "75699": {
+    "name": "William Leach",
+    "scores": {
+      "math": 61,
+      "physics": 59,
+      "chemistry": 95
+    }
+  },
+  "38772": {
+    "name": "Jesus Flynn DDS",
+    "scores": {
+      "math": 96,
+      "physics": 74,
+      "chemistry": 85
+    }
+  },
+  "22207": {
+    "name": "Kayla Martin",
+    "scores": {
+      "math": 74,
+      "physics": 99,
+      "chemistry": 85
+    }
+  },
+  "64212": {
+    "name": "Kurt Anderson",
+    "scores": {
+      "math": 100,
+      "physics": 51,
+      "chemistry": 71
+    }
+  },
+  "36268": {
+    "name": "Laurie Cross",
+    "scores": {
+      "math": 56,
+      "physics": 87,
+      "chemistry": 73
+    }
+  },
+  "76947": {
+    "name": "Chad Stone",
+    "scores": {
+      "math": 93,
+      "physics": 83,
+      "chemistry": 67
+    }
+  },
+  "85984": {
+    "name": "Brandon Sweeney",
+    "scores": {
+      "math": 97,
+      "physics": 87,
+      "chemistry": 59
+    }
+  },
+  "56890": {
+    "name": "Hector Cruz",
+    "scores": {
+      "math": 65,
+      "physics": 97,
+      "chemistry": 91
+    }
+  },
+  "24219": {
+    "name": "Juan Patel",
+    "scores": {
+      "math": 69,
+      "physics": 86,
+      "chemistry": 81
+    }
+  },
+  "41965": {
+    "name": "Kelly Wright",
+    "scores": {
+      "math": 70,
+      "physics": 58,
+      "chemistry": 59
+    }
+  },
+  "54122": {
+    "name": "Chase Robbins",
+    "scores": {
+      "math": 92,
+      "physics": 81,
+      "chemistry": 70
+    }
+  },
+  "95789": {
+    "name": "Justin Gonzalez",
+    "scores": {
+      "math": 55,
+      "physics": 80,
+      "chemistry": 96
+    }
+  },
+  "73008": {
+    "name": "Jason Bennett",
+    "scores": {
+      "math": 52,
+      "physics": 62,
+      "chemistry": 89
+    }
+  },
+  "33780": {
+    "name": "Mark Reese",
+    "scores": {
+      "math": 66,
+      "physics": 55,
+      "chemistry": 70
+    }
+  },
+  "59331": {
+    "name": "Jorge Peterson",
+    "scores": {
+      "math": 97,
+      "physics": 77,
+      "chemistry": 69
+    }
+  },
+  "77174": {
+    "name": "Sharon Oneal",
+    "scores": {
+      "math": 57,
+      "physics": 86,
+      "chemistry": 79
+    }
+  },
+  "19502": {
+    "name": "Amanda Suarez",
+    "scores": {
+      "math": 66,
+      "physics": 66,
+      "chemistry": 100
+    }
+  },
+  "91531": {
+    "name": "James Mayer",
+    "scores": {
+      "math": 57,
+      "physics": 84,
+      "chemistry": 73
+    }
+  },
+  "68231": {
+    "name": "Lisa Johnson",
+    "scores": {
+      "math": 52,
+      "physics": 75,
+      "chemistry": 91
+    }
+  },
+  "96145": {
+    "name": "Jacob Parker",
+    "scores": {
+      "math": 84,
+      "physics": 96,
+      "chemistry": 86
+    }
+  },
+  "17636": {
+    "name": "Tracy Barajas",
+    "scores": {
+      "math": 71,
+      "physics": 51,
+      "chemistry": 76
+    }
+  },
+  "64823": {
+    "name": "William Koch",
+    "scores": {
+      "math": 89,
+      "physics": 82,
+      "chemistry": 58
+    }
+  },
+  "59385": {
+    "name": "Monica Johnson",
+    "scores": {
+      "math": 50,
+      "physics": 98,
+      "chemistry": 99
+    }
+  },
+  "55965": {
+    "name": "Sheila Meza",
+    "scores": {
+      "math": 80,
+      "physics": 77,
+      "chemistry": 93
+    }
+  },
+  "89787": {
+    "name": "Christine Long",
+    "scores": {
+      "math": 62,
+      "physics": 92,
+      "chemistry": 71
+    }
+  },
+  "11433": {
+    "name": "Elizabeth Murray",
+    "scores": {
+      "math": 91,
+      "physics": 94,
+      "chemistry": 59
+    }
+  },
+  "32689": {
+    "name": "Charles Bennett",
+    "scores": {
+      "math": 54,
+      "physics": 62,
+      "chemistry": 87
+    }
+  },
+  "39737": {
+    "name": "Rita Frazier",
+    "scores": {
+      "math": 92,
+      "physics": 55,
+      "chemistry": 85
+    }
+  },
+  "39108": {
+    "name": "Jennifer Johnson",
+    "scores": {
+      "math": 55,
+      "physics": 88,
+      "chemistry": 86
+    }
+  },
+  "39188": {
+    "name": "Jillian Walsh",
+    "scores": {
+      "math": 79,
+      "physics": 63,
+      "chemistry": 85
+    }
+  },
+  "97154": {
+    "name": "Janice Doyle",
+    "scores": {
+      "math": 73,
+      "physics": 96,
+      "chemistry": 79
+    }
+  },
+  "75526": {
+    "name": "Monica Kennedy",
+    "scores": {
+      "math": 94,
+      "physics": 91,
+      "chemistry": 69
+    }
+  },
+  "81036": {
+    "name": "Frank Price",
+    "scores": {
+      "math": 91,
+      "physics": 51,
+      "chemistry": 97
+    }
+  },
+  "80499": {
+    "name": "Lauren Oconnell",
+    "scores": {
+      "math": 62,
+      "physics": 73,
+      "chemistry": 89
+    }
+  },
+  "93471": {
+    "name": "Cindy Howard",
+    "scores": {
+      "math": 80,
+      "physics": 63,
+      "chemistry": 89
+    }
+  },
+  "52933": {
+    "name": "Kelly Harris",
+    "scores": {
+      "math": 92,
+      "physics": 74,
+      "chemistry": 88
+    }
+  },
+  "95723": {
+    "name": "Kevin White",
+    "scores": {
+      "math": 72,
+      "physics": 87,
+      "chemistry": 100
+    }
+  },
+  "85597": {
+    "name": "Belinda Jones",
+    "scores": {
+      "math": 81,
+      "physics": 94,
+      "chemistry": 76
+    }
+  },
+  "84938": {
+    "name": "Joseph Hernandez",
+    "scores": {
+      "math": 95,
+      "physics": 69,
+      "chemistry": 67
+    }
+  },
+  "67665": {
+    "name": "Luis Harper",
+    "scores": {
+      "math": 53,
+      "physics": 82,
+      "chemistry": 96
+    }
+  },
+  "87068": {
+    "name": "Ronald Ramos",
+    "scores": {
+      "math": 52,
+      "physics": 67,
+      "chemistry": 70
+    }
+  },
+  "41656": {
+    "name": "Jason Brooks",
+    "scores": {
+      "math": 80,
+      "physics": 50,
+      "chemistry": 88
+    }
+  },
+  "53317": {
+    "name": "Mary Miranda",
+    "scores": {
+      "math": 64,
+      "physics": 80,
+      "chemistry": 99
+    }
+  },
+  "78479": {
+    "name": "Sandra Moreno",
+    "scores": {
+      "math": 93,
+      "physics": 87,
+      "chemistry": 50
+    }
+  },
+  "87976": {
+    "name": "Aaron Mcbride",
+    "scores": {
+      "math": 60,
+      "physics": 97,
+      "chemistry": 84
+    }
+  },
+  "30190": {
+    "name": "Darren Alvarez",
+    "scores": {
+      "math": 71,
+      "physics": 81,
+      "chemistry": 50
+    }
+  },
+  "57506": {
+    "name": "Tonya Simmons",
+    "scores": {
+      "math": 85,
+      "physics": 66,
+      "chemistry": 73
+    }
+  },
+  "17509": {
+    "name": "Henry Rodriguez",
+    "scores": {
+      "math": 60,
+      "physics": 91,
+      "chemistry": 64
+    }
+  },
+  "44411": {
+    "name": "Teresa Thompson",
+    "scores": {
+      "math": 92,
+      "physics": 93,
+      "chemistry": 82
+    }
+  },
+  "86125": {
+    "name": "Diamond Long",
+    "scores": {
+      "math": 51,
+      "physics": 78,
+      "chemistry": 76
+    }
+  },
+  "35242": {
+    "name": "Brandon Smith",
+    "scores": {
+      "math": 50,
+      "physics": 60,
+      "chemistry": 50
+    }
+  },
+  "35889": {
+    "name": "Laura Shelton",
+    "scores": {
+      "math": 58,
+      "physics": 75,
+      "chemistry": 58
+    }
+  },
+  "69956": {
+    "name": "Charlene Edwards",
+    "scores": {
+      "math": 51,
+      "physics": 100,
+      "chemistry": 96
+    }
+  },
+  "42372": {
+    "name": "Charles Jones",
+    "scores": {
+      "math": 65,
+      "physics": 98,
+      "chemistry": 55
+    }
+  },
+  "69127": {
+    "name": "James Key",
+    "scores": {
+      "math": 93,
+      "physics": 87,
+      "chemistry": 74
+    }
+  },
+  "67850": {
+    "name": "David Flores",
+    "scores": {
+      "math": 57,
+      "physics": 89,
+      "chemistry": 82
+    }
+  },
+  "11237": {
+    "name": "Jessica Shepard",
+    "scores": {
+      "math": 100,
+      "physics": 65,
+      "chemistry": 80
+    }
+  },
+  "68964": {
+    "name": "Michael Martinez",
+    "scores": {
+      "math": 89,
+      "physics": 94,
+      "chemistry": 73
+    }
+  },
+  "35884": {
+    "name": "Jeanette Murray",
+    "scores": {
+      "math": 73,
+      "physics": 88,
+      "chemistry": 96
+    }
+  },
+  "63158": {
+    "name": "Philip Wright",
+    "scores": {
+      "math": 72,
+      "physics": 54,
+      "chemistry": 77
+    }
+  },
+  "28267": {
+    "name": "Linda Johnson",
+    "scores": {
+      "math": 83,
+      "physics": 50,
+      "chemistry": 97
+    }
+  },
+  "42178": {
+    "name": "Michael Simmons",
+    "scores": {
+      "math": 71,
+      "physics": 60,
+      "chemistry": 67
+    }
+  },
+  "15737": {
+    "name": "Charles Giles",
+    "scores": {
+      "math": 71,
+      "physics": 76,
+      "chemistry": 84
+    }
+  },
+  "79933": {
+    "name": "Jordan Webster",
+    "scores": {
+      "math": 54,
+      "physics": 84,
+      "chemistry": 56
+    }
+  },
+  "25824": {
+    "name": "April Lee",
+    "scores": {
+      "math": 96,
+      "physics": 79,
+      "chemistry": 61
+    }
+  },
+  "83010": {
+    "name": "Bonnie Morales",
+    "scores": {
+      "math": 92,
+      "physics": 84,
+      "chemistry": 93
+    }
+  },
+  "56248": {
+    "name": "Nancy Murray",
+    "scores": {
+      "math": 97,
+      "physics": 82,
+      "chemistry": 96
+    }
+  },
+  "33747": {
+    "name": "Shannon Gomez",
+    "scores": {
+      "math": 100,
+      "physics": 55,
+      "chemistry": 74
+    }
+  },
+  "32260": {
+    "name": "Destiny Blackwell",
+    "scores": {
+      "math": 72,
+      "physics": 77,
+      "chemistry": 70
+    }
+  },
+  "10036": {
+    "name": "Robert Thompson",
+    "scores": {
+      "math": 59,
+      "physics": 52,
+      "chemistry": 94
+    }
+  },
+  "25754": {
+    "name": "Janice Sanchez",
+    "scores": {
+      "math": 63,
+      "physics": 62,
+      "chemistry": 52
+    }
+  },
+  "23393": {
+    "name": "Michelle Hartman",
+    "scores": {
+      "math": 63,
+      "physics": 94,
+      "chemistry": 65
+    }
+  },
+  "80206": {
+    "name": "Thomas Logan",
+    "scores": {
+      "math": 66,
+      "physics": 75,
+      "chemistry": 76
+    }
+  },
+  "70734": {
+    "name": "Dr. Calvin Wilson",
+    "scores": {
+      "math": 74,
+      "physics": 92,
+      "chemistry": 67
+    }
+  },
+  "30539": {
+    "name": "Bryan Casey",
+    "scores": {
+      "math": 52,
+      "physics": 69,
+      "chemistry": 71
+    }
+  },
+  "57221": {
+    "name": "Alison Moreno",
+    "scores": {
+      "math": 60,
+      "physics": 63,
+      "chemistry": 66
+    }
+  },
+  "24405": {
+    "name": "Steven Richardson",
+    "scores": {
+      "math": 66,
+      "physics": 68,
+      "chemistry": 72
+    }
+  },
+  "32960": {
+    "name": "Mark Morris",
+    "scores": {
+      "math": 88,
+      "physics": 62,
+      "chemistry": 85
+    }
+  },
+  "48193": {
+    "name": "Devin Bennett",
+    "scores": {
+      "math": 68,
+      "physics": 80,
+      "chemistry": 51
+    }
+  },
+  "11946": {
+    "name": "Brianna Lee",
+    "scores": {
+      "math": 76,
+      "physics": 65,
+      "chemistry": 56
+    }
+  },
+  "14664": {
+    "name": "Leslie Woods",
+    "scores": {
+      "math": 68,
+      "physics": 99,
+      "chemistry": 97
+    }
+  },
+  "76156": {
+    "name": "Amber Mclean MD",
+    "scores": {
+      "math": 85,
+      "physics": 84,
+      "chemistry": 66
+    }
+  },
+  "54581": {
+    "name": "Brent Vargas",
+    "scores": {
+      "math": 53,
+      "physics": 90,
+      "chemistry": 50
+    }
+  },
+  "18210": {
+    "name": "Rebecca Davis",
+    "scores": {
+      "math": 81,
+      "physics": 64,
+      "chemistry": 58
+    }
+  },
+  "66643": {
+    "name": "Douglas Wilson",
+    "scores": {
+      "math": 98,
+      "physics": 90,
+      "chemistry": 79
+    }
+  },
+  "82805": {
+    "name": "Derrick Harris",
+    "scores": {
+      "math": 81,
+      "physics": 75,
+      "chemistry": 51
+    }
+  },
+  "39010": {
+    "name": "Cameron Hall",
+    "scores": {
+      "math": 50,
+      "physics": 77,
+      "chemistry": 88
+    }
+  },
+  "72445": {
+    "name": "Steve Mcdaniel DVM",
+    "scores": {
+      "math": 65,
+      "physics": 82,
+      "chemistry": 56
+    }
+  },
+  "49146": {
+    "name": "Kevin Miller",
+    "scores": {
+      "math": 100,
+      "physics": 96,
+      "chemistry": 97
+    }
+  },
+  "92993": {
+    "name": "Katie Boone",
+    "scores": {
+      "math": 57,
+      "physics": 86,
+      "chemistry": 53
+    }
+  },
+  "41654": {
+    "name": "Molly Raymond",
+    "scores": {
+      "math": 63,
+      "physics": 55,
+      "chemistry": 98
+    }
+  },
+  "68092": {
+    "name": "Christopher Hunt",
+    "scores": {
+      "math": 94,
+      "physics": 58,
+      "chemistry": 51
+    }
+  },
+  "82723": {
+    "name": "Luke Davis",
+    "scores": {
+      "math": 57,
+      "physics": 54,
+      "chemistry": 56
+    }
+  },
+  "23846": {
+    "name": "Dr. Gary Morales",
+    "scores": {
+      "math": 94,
+      "physics": 63,
+      "chemistry": 79
+    }
+  },
+  "88753": {
+    "name": "Anthony Walsh",
+    "scores": {
+      "math": 100,
+      "physics": 98,
+      "chemistry": 98
+    }
+  },
+  "45098": {
+    "name": "Ricky Robles",
+    "scores": {
+      "math": 99,
+      "physics": 75,
+      "chemistry": 79
+    }
+  },
+  "82465": {
+    "name": "Lucas Farrell",
+    "scores": {
+      "math": 97,
+      "physics": 63,
+      "chemistry": 74
+    }
+  },
+  "75757": {
+    "name": "Jennifer Erickson",
+    "scores": {
+      "math": 91,
+      "physics": 94,
+      "chemistry": 51
+    }
+  },
+  "27017": {
+    "name": "Kristina Goodman",
+    "scores": {
+      "math": 79,
+      "physics": 87,
+      "chemistry": 91
+    }
+  },
+  "93298": {
+    "name": "Lauren Robinson",
+    "scores": {
+      "math": 73,
+      "physics": 81,
+      "chemistry": 51
+    }
+  },
+  "44112": {
+    "name": "Gabriel Anderson",
+    "scores": {
+      "math": 84,
+      "physics": 82,
+      "chemistry": 90
+    }
+  },
+  "91811": {
+    "name": "Amy Hayes",
+    "scores": {
+      "math": 92,
+      "physics": 85,
+      "chemistry": 75
+    }
+  },
+  "72600": {
+    "name": "Jessica Jones",
+    "scores": {
+      "math": 61,
+      "physics": 85,
+      "chemistry": 65
+    }
+  },
+  "95935": {
+    "name": "Joshua Whitaker",
+    "scores": {
+      "math": 66,
+      "physics": 67,
+      "chemistry": 96
+    }
+  },
+  "11034": {
+    "name": "Christopher Davis",
+    "scores": {
+      "math": 75,
+      "physics": 81,
+      "chemistry": 76
+    }
+  },
+  "66548": {
+    "name": "Kaitlin Cox",
+    "scores": {
+      "math": 99,
+      "physics": 54,
+      "chemistry": 50
+    }
+  },
+  "78382": {
+    "name": "Sarah Perez",
+    "scores": {
+      "math": 59,
+      "physics": 53,
+      "chemistry": 55
+    }
+  },
+  "61218": {
+    "name": "Edward Tucker",
+    "scores": {
+      "math": 57,
+      "physics": 100,
+      "chemistry": 96
+    }
+  },
+  "78778": {
+    "name": "Dana Diaz",
+    "scores": {
+      "math": 83,
+      "physics": 67,
+      "chemistry": 75
+    }
+  },
+  "91710": {
+    "name": "Tammy Spencer",
+    "scores": {
+      "math": 77,
+      "physics": 91,
+      "chemistry": 85
+    }
+  },
+  "26034": {
+    "name": "John Garcia",
+    "scores": {
+      "math": 88,
+      "physics": 53,
+      "chemistry": 56
+    }
+  },
+  "46057": {
+    "name": "Jose Jones",
+    "scores": {
+      "math": 55,
+      "physics": 86,
+      "chemistry": 59
+    }
+  },
+  "12138": {
+    "name": "Gary Delacruz",
+    "scores": {
+      "math": 55,
+      "physics": 67,
+      "chemistry": 84
+    }
+  },
+  "55373": {
+    "name": "Allison Moore",
+    "scores": {
+      "math": 96,
+      "physics": 78,
+      "chemistry": 60
+    }
+  },
+  "33873": {
+    "name": "Kristy Jones",
+    "scores": {
+      "math": 57,
+      "physics": 87,
+      "chemistry": 64
+    }
+  },
+  "58901": {
+    "name": "Tiffany Reed",
+    "scores": {
+      "math": 53,
+      "physics": 65,
+      "chemistry": 69
+    }
+  },
+  "68037": {
+    "name": "Shaun Murray",
+    "scores": {
+      "math": 76,
+      "physics": 86,
+      "chemistry": 55
+    }
+  },
+  "46116": {
+    "name": "John Gilbert",
+    "scores": {
+      "math": 73,
+      "physics": 91,
+      "chemistry": 77
+    }
+  },
+  "87050": {
+    "name": "Kevin Brooks",
+    "scores": {
+      "math": 92,
+      "physics": 91,
+      "chemistry": 96
+    }
+  },
+  "74869": {
+    "name": "Mary Rogers DDS",
+    "scores": {
+      "math": 94,
+      "physics": 81,
+      "chemistry": 94
+    }
+  },
+  "55071": {
+    "name": "Jimmy Brown",
+    "scores": {
+      "math": 80,
+      "physics": 86,
+      "chemistry": 51
+    }
+  },
+  "45070": {
+    "name": "Alexis King",
+    "scores": {
+      "math": 67,
+      "physics": 80,
+      "chemistry": 85
+    }
+  },
+  "19405": {
+    "name": "Nicholas Case",
+    "scores": {
+      "math": 64,
+      "physics": 86,
+      "chemistry": 77
+    }
+  },
+  "76764": {
+    "name": "Jerry King",
+    "scores": {
+      "math": 62,
+      "physics": 83,
+      "chemistry": 59
+    }
+  },
+  "96898": {
+    "name": "Jared Acevedo",
+    "scores": {
+      "math": 70,
+      "physics": 75,
+      "chemistry": 57
+    }
+  },
+  "69751": {
+    "name": "Angela Williams",
+    "scores": {
+      "math": 54,
+      "physics": 79,
+      "chemistry": 85
+    }
+  },
+  "57741": {
+    "name": "Rachel Burns",
+    "scores": {
+      "math": 87,
+      "physics": 85,
+      "chemistry": 66
+    }
+  },
+  "19307": {
+    "name": "Brian Willis",
+    "scores": {
+      "math": 95,
+      "physics": 51,
+      "chemistry": 75
+    }
+  },
+  "10165": {
+    "name": "Mrs. Jamie Tran",
+    "scores": {
+      "math": 95,
+      "physics": 98,
+      "chemistry": 83
+    }
+  },
+  "12474": {
+    "name": "Ronald Moreno",
+    "scores": {
+      "math": 55,
+      "physics": 72,
+      "chemistry": 51
+    }
+  },
+  "86558": {
+    "name": "Melissa Smith",
+    "scores": {
+      "math": 96,
+      "physics": 55,
+      "chemistry": 76
+    }
+  },
+  "64910": {
+    "name": "Andrew Boone",
+    "scores": {
+      "math": 56,
+      "physics": 98,
+      "chemistry": 55
+    }
+  },
+  "50728": {
+    "name": "Justin Barrera",
+    "scores": {
+      "math": 88,
+      "physics": 97,
+      "chemistry": 75
+    }
+  },
+  "88733": {
+    "name": "David Jones",
+    "scores": {
+      "math": 98,
+      "physics": 53,
+      "chemistry": 57
+    }
+  },
+  "16211": {
+    "name": "Tiffany Hester",
+    "scores": {
+      "math": 53,
+      "physics": 81,
+      "chemistry": 57
+    }
+  },
+  "76251": {
+    "name": "Philip Zuniga",
+    "scores": {
+      "math": 68,
+      "physics": 90,
+      "chemistry": 95
+    }
+  },
+  "71239": {
+    "name": "Michael Small",
+    "scores": {
+      "math": 64,
+      "physics": 69,
+      "chemistry": 60
+    }
+  },
+  "72916": {
+    "name": "Samantha Mccoy",
+    "scores": {
+      "math": 59,
+      "physics": 73,
+      "chemistry": 92
+    }
+  },
+  "13871": {
+    "name": "Devin Wilson",
+    "scores": {
+      "math": 99,
+      "physics": 74,
+      "chemistry": 88
+    }
+  },
+  "48981": {
+    "name": "Jose Martinez",
+    "scores": {
+      "math": 98,
+      "physics": 57,
+      "chemistry": 96
+    }
+  },
+  "46443": {
+    "name": "Kaitlin Barnes",
+    "scores": {
+      "math": 81,
+      "physics": 79,
+      "chemistry": 66
+    }
+  },
+  "57790": {
+    "name": "Cathy Cooper",
+    "scores": {
+      "math": 66,
+      "physics": 80,
+      "chemistry": 91
+    }
+  },
+  "55459": {
+    "name": "Scott Walker",
+    "scores": {
+      "math": 58,
+      "physics": 72,
+      "chemistry": 98
+    }
+  },
+  "45625": {
+    "name": "Casey Harris",
+    "scores": {
+      "math": 65,
+      "physics": 52,
+      "chemistry": 66
+    }
+  },
+  "18610": {
+    "name": "James Hall",
+    "scores": {
+      "math": 73,
+      "physics": 81,
+      "chemistry": 52
+    }
+  },
+  "26234": {
+    "name": "Kelly Coleman",
+    "scores": {
+      "math": 84,
+      "physics": 80,
+      "chemistry": 100
+    }
+  },
+  "21388": {
+    "name": "Jeremy Rogers",
+    "scores": {
+      "math": 72,
+      "physics": 68,
+      "chemistry": 60
+    }
+  },
+  "90487": {
+    "name": "Kimberly Rodriguez",
+    "scores": {
+      "math": 80,
+      "physics": 88,
+      "chemistry": 69
+    }
+  },
+  "23876": {
+    "name": "Curtis Harrison",
+    "scores": {
+      "math": 91,
+      "physics": 87,
+      "chemistry": 90
+    }
+  },
+  "69675": {
+    "name": "Lisa Green",
+    "scores": {
+      "math": 90,
+      "physics": 87,
+      "chemistry": 90
+    }
+  },
+  "76025": {
+    "name": "Joseph Cooley",
+    "scores": {
+      "math": 80,
+      "physics": 98,
+      "chemistry": 67
+    }
+  },
+  "18694": {
+    "name": "Mrs. Teresa Montgomery",
+    "scores": {
+      "math": 80,
+      "physics": 60,
+      "chemistry": 76
+    }
+  },
+  "40471": {
+    "name": "Christina Norman",
+    "scores": {
+      "math": 73,
+      "physics": 83,
+      "chemistry": 97
+    }
+  },
+  "56802": {
+    "name": "Nicole Gillespie",
+    "scores": {
+      "math": 82,
+      "physics": 60,
+      "chemistry": 88
+    }
+  },
+  "93880": {
+    "name": "Bryan Spencer",
+    "scores": {
+      "math": 71,
+      "physics": 86,
+      "chemistry": 69
+    }
+  },
+  "85174": {
+    "name": "Melissa Miller",
+    "scores": {
+      "math": 76,
+      "physics": 77,
+      "chemistry": 97
+    }
+  },
+  "83884": {
+    "name": "Aaron Collins",
+    "scores": {
+      "math": 90,
+      "physics": 58,
+      "chemistry": 73
+    }
+  },
+  "68492": {
+    "name": "Tammy Shepherd",
+    "scores": {
+      "math": 76,
+      "physics": 92,
+      "chemistry": 54
+    }
+  },
+  "93337": {
+    "name": "Thomas Harris",
+    "scores": {
+      "math": 82,
+      "physics": 92,
+      "chemistry": 86
+    }
+  },
+  "18482": {
+    "name": "Lisa Arnold",
+    "scores": {
+      "math": 66,
+      "physics": 74,
+      "chemistry": 52
+    }
+  },
+  "46568": {
+    "name": "Andrea Alvarez",
+    "scores": {
+      "math": 94,
+      "physics": 94,
+      "chemistry": 63
+    }
+  },
+  "51582": {
+    "name": "Monica Owen",
+    "scores": {
+      "math": 83,
+      "physics": 79,
+      "chemistry": 88
+    }
+  },
+  "78419": {
+    "name": "Nathan Taylor",
+    "scores": {
+      "math": 50,
+      "physics": 72,
+      "chemistry": 56
+    }
+  },
+  "15669": {
+    "name": "Jennifer Foster",
+    "scores": {
+      "math": 88,
+      "physics": 61,
+      "chemistry": 83
+    }
+  },
+  "80600": {
+    "name": "Catherine Huynh",
+    "scores": {
+      "math": 95,
+      "physics": 57,
+      "chemistry": 69
+    }
+  },
+  "17798": {
+    "name": "Andrew Burns",
+    "scores": {
+      "math": 83,
+      "physics": 83,
+      "chemistry": 84
+    }
+  },
+  "24990": {
+    "name": "Devin Holland",
+    "scores": {
+      "math": 67,
+      "physics": 99,
+      "chemistry": 94
+    }
+  },
+  "17569": {
+    "name": "Melissa Kelly",
+    "scores": {
+      "math": 52,
+      "physics": 96,
+      "chemistry": 61
+    }
+  },
+  "13969": {
+    "name": "Angela Lopez",
+    "scores": {
+      "math": 61,
+      "physics": 60,
+      "chemistry": 60
+    }
+  },
+  "20211": {
+    "name": "Mrs. Amanda Davis",
+    "scores": {
+      "math": 54,
+      "physics": 62,
+      "chemistry": 90
+    }
+  },
+  "43129": {
+    "name": "Terry Jones",
+    "scores": {
+      "math": 93,
+      "physics": 100,
+      "chemistry": 60
+    }
+  },
+  "56801": {
+    "name": "Nicholas Davis",
+    "scores": {
+      "math": 87,
+      "physics": 94,
+      "chemistry": 89
+    }
+  },
+  "24534": {
+    "name": "John Grant",
+    "scores": {
+      "math": 72,
+      "physics": 61,
+      "chemistry": 60
+    }
+  },
+  "58210": {
+    "name": "Eric Wong",
+    "scores": {
+      "math": 66,
+      "physics": 98,
+      "chemistry": 55
+    }
+  },
+  "76847": {
+    "name": "Carl Martinez",
+    "scores": {
+      "math": 75,
+      "physics": 95,
+      "chemistry": 88
+    }
+  },
+  "85418": {
+    "name": "Alicia Gutierrez",
+    "scores": {
+      "math": 75,
+      "physics": 79,
+      "chemistry": 82
+    }
+  },
+  "49617": {
+    "name": "Joseph Mason Jr.",
+    "scores": {
+      "math": 65,
+      "physics": 59,
+      "chemistry": 57
+    }
+  },
+  "97701": {
+    "name": "Kristie Sanders",
+    "scores": {
+      "math": 86,
+      "physics": 100,
+      "chemistry": 78
+    }
+  },
+  "60628": {
+    "name": "Lauren Morales",
+    "scores": {
+      "math": 83,
+      "physics": 60,
+      "chemistry": 100
+    }
+  },
+  "45510": {
+    "name": "Charles Price",
+    "scores": {
+      "math": 60,
+      "physics": 76,
+      "chemistry": 50
+    }
+  },
+  "37602": {
+    "name": "Taylor Vasquez",
+    "scores": {
+      "math": 83,
+      "physics": 50,
+      "chemistry": 85
+    }
+  },
+  "18486": {
+    "name": "Mark Harris",
+    "scores": {
+      "math": 87,
+      "physics": 100,
+      "chemistry": 77
+    }
+  },
+  "25701": {
+    "name": "Ashley James",
+    "scores": {
+      "math": 73,
+      "physics": 80,
+      "chemistry": 63
+    }
+  },
+  "55362": {
+    "name": "Ronald Wolfe",
+    "scores": {
+      "math": 79,
+      "physics": 53,
+      "chemistry": 52
+    }
+  },
+  "89472": {
+    "name": "James Garcia",
+    "scores": {
+      "math": 88,
+      "physics": 82,
+      "chemistry": 82
+    }
+  },
+  "21961": {
+    "name": "Daniel Bates",
+    "scores": {
+      "math": 98,
+      "physics": 89,
+      "chemistry": 96
+    }
+  },
+  "52470": {
+    "name": "Jeremy Hobbs",
+    "scores": {
+      "math": 74,
+      "physics": 100,
+      "chemistry": 86
+    }
+  }
+}

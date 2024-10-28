@@ -3,7 +3,17 @@
 
 Các dự án đang cần hoàn thiện của iTitan:
 
-**Prob 1**) Name Entity Recognition
+**Prob 1**) Use function calling to get prams and feed them to a function to get the results from desidned functions.
+
+Context: With the database of student records that contain student_id, student_name, subject, and scores.
+
+In the interaction with a chatbot, students can ask questions about their scores on certain subjects, they might or might not provide student_id.
+
+Use `students.json` for the records to start with. This acts as a fake database for our prototype.
+
+---
+
+~~**Prob 2**) Name Entity Recognition~~
 
 **Mục tiêu**: Xây dựng các model DL hoặc Spacy để nhận diện các thực thể. Các thực thể ở đây được định nghĩa rất tổng quát, không nhất thiết phải tên và địa chỉ, hay cơ quan.
 
@@ -21,7 +31,7 @@ Cách tiếp cận:
 
 ---
 
-**Prob 2**) Relation Extraction
+~~**Prob 3**) Relation Extraction~~
 
 **Mục tiêu**: Xây dựng các model DL để trích xuất ra các mối liên hệ giữa các thực thể.
 
