@@ -3,9 +3,9 @@
 
 Các dự án đang cần hoàn thiện của iTitan:
 
-**Prob 1**) Use function calling to get prams and feed them to a function to get the results from desidned functions.
+**Prob 1**) Use function calling to get prams and feed them to a function to get the results from designed functions.
 
-Context: With the database of student records that contain student_id, student_name, subject, and scores.
+Context: With the database of student records that contains student_id, student_name, subject, and scores.
 
 In the interaction with a chatbot, students can ask questions about their scores on certain subjects, they might or might not provide student_id.
 
